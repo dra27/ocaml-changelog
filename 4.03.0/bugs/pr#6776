@@ -1,0 +1,2 @@
+PR#6776: Failure to kill the "tick" thread, segfault when exiting the runtime
+(Damien Doligez, report by Thomas Braibant)

@@ -1,0 +1,2 @@
+PR#6564: infinite loop in Mtype.remove_aliases
+(Jacques Garrigue, report by Mark Shinwell)

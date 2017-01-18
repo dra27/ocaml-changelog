@@ -1,0 +1,2 @@
+PR#7260: GADT + subtyping compile time crash
+(Jacques Garrigue, report by Nicolas Ojeda Bar)

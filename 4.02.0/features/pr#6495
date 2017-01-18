@@ -1,0 +1,2 @@
+PR#6495: ocamlbuild tags 'safe_string', 'unsafe_string'
+(Anil Madhavapeddy)

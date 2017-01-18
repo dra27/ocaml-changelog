@@ -1,0 +1,2 @@
+shorten syntax for functor signatures: "functor (M1:S1) (M2:S2) .. -> .."
+(Thomas Gazagnaire and Jeremy Yallop, review by Gabriel Scherer)

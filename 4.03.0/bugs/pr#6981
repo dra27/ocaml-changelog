@@ -1,0 +1,2 @@
+PR#6981: Ctype.Unify(_) with associated functor arg refering to previous one
+(Jacques Garrigue, report by Nicholas Labich)

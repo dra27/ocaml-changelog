@@ -1,0 +1,2 @@
+GPR#143: fix getsockopt behaviour for boolean socket options
+(Anil Madhavapeddy and Andrew Ray)

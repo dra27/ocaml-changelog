@@ -1,0 +1,3 @@
+PR#6806: Allow type annotations before the "->" in "fun <args> -> <expr>"
+fun x y : (int * int) -> (x, y)
+(Valentin Gatien-Baron, review by Jérémie Dimino)

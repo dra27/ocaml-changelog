@@ -1,0 +1,4 @@
+PR#6752: Extensible variant types and scope escaping
+A side-effect of the fix is that (ocamlc -i) sometimes reports
+(type-sound) invalid signature, with a type used before its declaration.
+(Jacques Garrigue, report by Maxence Guesdon)

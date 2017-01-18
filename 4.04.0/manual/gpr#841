@@ -1,0 +1,3 @@
+GPR#841: Document that [Store_field] must not be used to populate
+arrays of values declared using [CAMLlocalN]
+(Mark Shinwell)

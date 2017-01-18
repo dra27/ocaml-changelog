@@ -1,0 +1,2 @@
+PR#6862: Exhaustiveness check wrong for class constructor arguments
+(Jacques Garrigue)

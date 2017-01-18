@@ -1,0 +1,2 @@
+PR#7374: Contractiveness check unsound with constraints
+(Jacques Garrigue, report by Leo White)

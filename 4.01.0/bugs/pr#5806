@@ -1,0 +1,2 @@
+PR#5806: ensure that backtrace tests are always run (testsuite)
+(Xavier Clerc, report by user 'michi')

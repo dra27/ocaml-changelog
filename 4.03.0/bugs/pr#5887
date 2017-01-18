@@ -1,0 +1,3 @@
+PR#5887: move the byterun/*.h headers to byterun/caml/*.h to avoid header
+name clashes
+(Jérôme Vouillon and Adrien Nader and whitequark)

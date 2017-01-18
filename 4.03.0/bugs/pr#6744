@@ -1,0 +1,2 @@
+PR#6744: Univars can escape through polymorphic variants (partial fix)
+(Jacques Garrigue, report by Leo White)

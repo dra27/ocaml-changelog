@@ -1,0 +1,2 @@
+PR#6383: Exception Not_found when using object type in absent module
+(Jacques Garrigue, report by Sébastien Briais)

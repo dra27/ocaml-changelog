@@ -1,0 +1,3 @@
+PR#5995: keep -for-pack into account to name exceptions;
+-for-pack should now be used during bytecode compilation as well
+(Alain Frisch, report by Christophe Troestler)

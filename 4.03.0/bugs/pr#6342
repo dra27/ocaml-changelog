@@ -1,0 +1,2 @@
+PR#6342: Incorrect error message when type constraints differ
+(Alain Frisch, report by Philippe Wang)

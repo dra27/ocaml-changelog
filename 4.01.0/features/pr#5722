@@ -1,0 +1,2 @@
+PR#5722: toplevel: print full module path only for first record field
+(Jacques Garrigue, report by ygrek)

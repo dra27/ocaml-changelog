@@ -1,0 +1,2 @@
+PR#5836, PR#6684: printing lazy values in ocamldebug may segfault
+(Gabriel Scherer, request by the Coq team)

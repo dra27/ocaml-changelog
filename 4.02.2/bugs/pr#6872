@@ -1,0 +1,3 @@
+PR#6872: Type-directed propagation fails to disambiguate variants
+that are also exception constructors
+(Jacques Garrigue, report by Romain Beauxis)

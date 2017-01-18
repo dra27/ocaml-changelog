@@ -1,0 +1,11 @@
+language ocaml-changes-title=Language+features
+compilers ocaml-changes-title=Compilers
+typing ocaml-changes-title=Type+system
+runtime ocaml-changes-title=Runtime+system
+stdlib ocaml-changes-title=Standard+library
+pruning ocaml-changes-title=Shedding+weight
+debugging ocaml-changes-title=Toplevel,+debugger+and+profiler
+tools ocaml-changes-title=Tools
+build ocaml-changes-title=Compiler+distribution+build+system
+bugs ocaml-changes-title=Bug+fixes
+features ocaml-changes-title=Feature+wishes

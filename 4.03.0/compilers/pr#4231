@@ -1,0 +1,5 @@
+*PR#4231, PR#5461: warning 31 is now fatal by default
+(Warning 31: A module is linked twice in the same executable.)
+This is an interim solution; double-linking of modules has dangerous
+semantics, eg. exception constructors end up with two distinct declarations.
+(Alain Frisch)

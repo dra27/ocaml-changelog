@@ -1,0 +1,10 @@
+*Hashtbl:
+  . Statistically-better generic hash function based on Murmur 3 (PR#5225)
+  . Fixed behavior of generic hash function w.r.t. -0.0 and NaN (PR#5222)
+  . Added optional "random" parameter to Hashtbl.create to randomize
+    collision patterns and improve security (PR#5572, CVE-2012-0839)
+  . Added "randomize" function and "R" parameter to OCAMLRUNPARAM
+    to turn randomization on by default (PR#5572, CVE-2012-0839)
+  . Added new functorial interface "MakeSeeded" to support randomization
+    with user-provided seeded hash functions.
+  . Install new header <caml/hash.h> for C code.

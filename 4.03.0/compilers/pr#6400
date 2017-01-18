@@ -1,0 +1,2 @@
+PR#6400: better error message for '_' used as an expression
+(Alain Frisch, report by whitequark)

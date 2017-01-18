@@ -1,0 +1,3 @@
+PR#6945, GPR#227: protect Sys and Unix functions against string
+arguments containing the null character '\000'
+(Simon Cruanes and Xavier Leroy, report by Daniel Bünzli)

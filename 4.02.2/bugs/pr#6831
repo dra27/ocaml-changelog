@@ -1,0 +1,2 @@
+PR#6831: Build breaks for -aspp gcc on solaris-like OSs
+(John Tibble)

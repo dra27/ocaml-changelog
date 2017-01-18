@@ -1,0 +1,2 @@
+PR#5395: OCamlbuild mishandles relative symlinks and include paths
+(Damien Doligez, report by Didier Le Botlan)

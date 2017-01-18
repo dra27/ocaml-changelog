@@ -1,0 +1,2 @@
+PR#4855: 'camlp4 -I +dir' accepted, dir is relative to 'camlp4 -where'
+(Jun Furuse and Hongbo Zhang, report by Dmitry Grebeniuk)

@@ -1,0 +1,2 @@
+PR#5498: Unification with an empty object only checks the absence of
+the first method

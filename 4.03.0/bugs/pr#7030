@@ -1,0 +1,2 @@
+PR#7030: libasmrun_shared.so fails to build on SPARC Solaris
+(report and fix by Patrick Star)

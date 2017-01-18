@@ -1,0 +1,2 @@
+PR#6307: Behavior of 'module type of' w.r.t. module aliases
+(Jacques Garrigue, report by Alain Frisch)

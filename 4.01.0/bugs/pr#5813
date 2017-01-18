@@ -1,0 +1,2 @@
+PR#5813: GC not called when unmarshaling repeatedly in a tight loop (ocamlopt)
+(Xavier Leroy, report by David Waern)

@@ -1,0 +1,2 @@
+PR#5772: problem with marshaling of mutually-recursive functions
+(Jacques-Henri Jourdan, reported by Cédric Pasteur)

@@ -1,0 +1,1 @@
+PR#5456: pa_macro: replace __LOCATION__ after macro expansion; add LOCATION_OF

@@ -1,0 +1,2 @@
+PR#6920: fix debug informations around uses of %apply or %revapply
+(Jérémie Dimino, report by Daniel Bünzli)

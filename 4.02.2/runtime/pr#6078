@@ -1,0 +1,2 @@
+PR#6078: Release the runtime system when calling caml_dlopen
+(Jérémie Dimino)

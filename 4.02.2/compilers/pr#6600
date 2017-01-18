@@ -1,0 +1,3 @@
+PR#6600: make -short-paths faster by building the printing map
+incrementally
+(Jacques Garrigue)

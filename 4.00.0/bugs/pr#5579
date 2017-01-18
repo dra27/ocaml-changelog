@@ -1,0 +1,2 @@
+PR#5579: camlp4: when a plugin is loaded in the toplevel,
+Token.Filter.define_filter has no effect before the first syntax error

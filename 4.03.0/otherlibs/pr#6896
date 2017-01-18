@@ -1,0 +1,3 @@
+PR#6896: serious reimplementation of Big_int.float_of_big_int and
+Ratio.float_of_ratio, ensuring that the result is correctly rounded.
+(Xavier Leroy)

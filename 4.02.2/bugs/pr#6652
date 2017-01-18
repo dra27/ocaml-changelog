@@ -1,0 +1,2 @@
+PR#6652: ocamlbuild -clean does not print a newline after output
+(Damien Doligez, report by Andi McClure)

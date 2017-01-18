@@ -1,0 +1,3 @@
+PR#7064, GPR#316: allowing to mark compilation units and sub-modules as
+deprecated
+(Alain Frisch)

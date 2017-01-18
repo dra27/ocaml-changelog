@@ -1,0 +1,2 @@
+PR#6760: closures evaluated in the toplevel can now be marshalled
+(whitequark, review by Jacques-Henri Jourdan)

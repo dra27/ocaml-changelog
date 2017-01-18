@@ -1,0 +1,2 @@
+PR#7248: have ocamldep interpret -open arguments in left-to-right order
+(Gabriel Scherer, report by Anton Bachin)

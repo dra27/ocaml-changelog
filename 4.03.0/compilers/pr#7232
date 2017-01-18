@@ -1,0 +1,2 @@
+PR#7232: Strange Pprintast output with ppx_deriving
+(Damien Doligez, report by Anton Bachin)

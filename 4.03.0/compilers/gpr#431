@@ -1,0 +1,3 @@
+GPR#431: permit constant float arrays to be eligible for pattern match
+branch merging
+(Pierre Chambart)

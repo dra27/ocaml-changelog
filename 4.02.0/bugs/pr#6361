@@ -1,0 +1,2 @@
+PR#6361: Hashtbl.hash not terminating on some lazy values w/ recursive types
+(Xavier Leroy, report by Leo White)

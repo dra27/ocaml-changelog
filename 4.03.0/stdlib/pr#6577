@@ -1,0 +1,2 @@
+PR#6577: improve performance of %L, %l, %n, %S, %C format specifiers
+(Alain Frisch)

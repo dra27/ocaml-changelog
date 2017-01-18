@@ -1,0 +1,1 @@
+Optimize away compile-time beta-redexes, e.g. (fun x y -> e) a b.

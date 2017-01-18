@@ -1,0 +1,2 @@
+PR#4762: ?? is not used at all, but registered as a lexer token
+(Alain Frisch)

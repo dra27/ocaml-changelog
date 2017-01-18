@@ -1,0 +1,3 @@
+PR#6033: Matching.inline_lazy_force needs eta-expansion (command-line flags)
+(Pierre Chambart, Xavier Leroy and Luc Maranget,
+ regression report by Gabriel Scherer)

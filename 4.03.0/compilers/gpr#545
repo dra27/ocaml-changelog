@@ -1,0 +1,3 @@
+GPR#545: use reraise to preserve backtrace on
+`match .. with exception e -> raise e`
+(Nicolas Ojeda Bar, review by Gabriel Scherer)

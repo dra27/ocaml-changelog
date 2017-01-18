@@ -1,0 +1,2 @@
+PR#6779: Cross-compilers cannot link bytecode using custom primitives
+(Damien Doligez, request by whitequark)

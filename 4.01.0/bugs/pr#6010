@@ -1,0 +1,2 @@
+PR#6010: Big_int.extract_big_int gives wrong results on negative arguments
+(Xavier Leroy, report by Drake Wilson via Stéphane Glondu)

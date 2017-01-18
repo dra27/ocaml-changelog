@@ -1,0 +1,3 @@
+GPR#324: Compiler developers: Adding new primitives to the
+standard runtime doesn't require anymore to run `make bootstrap`
+(François Bobot)

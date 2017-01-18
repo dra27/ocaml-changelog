@@ -1,0 +1,3 @@
+PR#5759: use well-disciplined type information propagation to
+disambiguate label and constructor names
+(Jacques Garrigue, Alain Frisch and Leo White)

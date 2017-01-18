@@ -1,0 +1,1 @@
+PR#352: new option "-stdin" to make ocaml read stdin as a script

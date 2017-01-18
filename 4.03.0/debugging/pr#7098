@@ -1,0 +1,2 @@
+PR#7098: Loss of ppx context in toplevel after an exception
+(Alain Frisch, report by whitequark)

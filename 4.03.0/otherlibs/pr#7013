@@ -1,0 +1,2 @@
+PR#7013: spurious wake-up in the Event module
+(Xavier Leroy)

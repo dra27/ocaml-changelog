@@ -1,0 +1,2 @@
+Marshal: marshalling of function values (flag Marshal.Closures) now
+also works for functions that come from dynamically-loaded modules (PR#5215)

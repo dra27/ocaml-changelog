@@ -1,0 +1,4 @@
+GPR#319: add warning 58 for missing cmx files, and
+extend -opaque option to mli files: a missing .cmx does not warn
+if the corresponding .cmi is compiled -opaque.
+(Leo White)

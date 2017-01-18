@@ -1,0 +1,2 @@
+PR#7038: out of memory condition in caml_io_mutex_lock
+(Xavier Leroy, report by Marc Lasson)

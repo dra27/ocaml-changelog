@@ -1,0 +1,2 @@
+GPR#118: ocamldep -allow-approx: fallback to a lexer-based approximation
+(Frédéric Bour)

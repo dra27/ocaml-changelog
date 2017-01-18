@@ -1,0 +1,2 @@
+PR#6174: OCaml compiler loops on an example using GADTs (-rectypes case)
+(Jacques Garrigue and Grégoire Henry, report by Chantal Keller)

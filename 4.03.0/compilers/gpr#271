@@ -1,0 +1,2 @@
+GPR#271: Fix incorrect mutability flag when records are built using "with"
+(Mark Shinwell)

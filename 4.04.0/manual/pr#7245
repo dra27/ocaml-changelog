@@ -1,0 +1,3 @@
+PR#7245, GPR#565: clarification to the wording and documentation
+of Warning 52 (fragile constant pattern)
+(Gabriel Scherer, William, Adrien Nader, Jacques Garrigue)

@@ -1,0 +1,1 @@
+PR#5218: use $(MAKE) instead of "make" in Makefiles

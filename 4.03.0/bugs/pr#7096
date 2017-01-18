@@ -1,0 +1,2 @@
+PR#7096: ocamldoc uses an incorrect subscript/superscript style
+(Gabriel Scherer, report by user 'pierpa')

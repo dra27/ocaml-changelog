@@ -1,0 +1,2 @@
+PR#6146: support "Unix.kill pid Sys.sigkill" under Windows
+(Romain Bardou and Alain Frisch)

@@ -1,0 +1,2 @@
+PR#5793: integer marshalling is inconsistent between architectures
+(Xavier Clerc, report by Pierre-Marie Pédrot)

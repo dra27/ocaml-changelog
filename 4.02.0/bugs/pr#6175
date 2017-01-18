@@ -1,0 +1,2 @@
+PR#6175: open! was not suppored by camlp4
+(Hongbo Zhang)

@@ -1,0 +1,2 @@
+PR#6772: asmrun/signals_asm.c doesn't compile on NetBSD/i386
+(Kenji Tokudome)

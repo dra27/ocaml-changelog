@@ -1,0 +1,4 @@
+*warning 3 is extended to warn about other deprecated features:
+- ISO-latin1 characters in identifiers
+- uses of the (&) and (or) operators instead of (&&) and (||)
+(Damien Doligez)

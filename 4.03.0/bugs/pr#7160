@@ -1,0 +1,2 @@
+PR#7160: Type synonym definitions can weaken gadt constructor types
+(Jacques Garrigue, report by Mikhail Mandrykin)

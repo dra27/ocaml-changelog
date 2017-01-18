@@ -1,0 +1,2 @@
+PR#6062: Fix a 4.01 camlp4 DELETE_RULE regression caused by commit 13047
+(Hongbo Zhang, report by Christophe Troestler)

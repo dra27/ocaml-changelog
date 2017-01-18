@@ -1,0 +1,2 @@
+PR#7111: reject empty let bindings instead of printing incorrect syntax
+(Jérémie Dimino)

@@ -1,0 +1,2 @@
+PR#6578: Recursive module containing alias causes Segmentation fault
+(Jacques Garrigue)

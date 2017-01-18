@@ -1,0 +1,3 @@
+PR#6374: allow "_ t" as a short-hand for "(_, _, ..) t" for n-ary type
+constructors
+(Alain Frisch)

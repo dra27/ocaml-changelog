@@ -1,0 +1,6 @@
+*PR#6438, PR#7059, GPR#315: Pattern guard disables exhaustiveness check
+(function Some x when x = 0 -> ()) will now raise warning 8 (non-exhaustive)
+instead of warning 25 (all clauses are guarded). 25 isn't raised anymore.
+Projects that set warning 8 as an error may fail to compile (presumably
+this is the semantics they wanted).
+(Alain Frisch, request by Martin Jambon and John Whitington)

@@ -1,0 +1,2 @@
+PR#5785: misbehaviour with abstracted structural type used as GADT index
+(Jacques Garrigue, report by Jeremy Yallop)

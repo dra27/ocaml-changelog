@@ -1,0 +1,2 @@
+PR#6385: wrong allocation of large closures by the bytecode interpreter
+(Xavier Leroy, report by Stephen Dolan)

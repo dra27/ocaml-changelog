@@ -1,0 +1,3 @@
+PR#7012: Variable name forgotten when it starts with a capital letter
+(Jacques Garrigue, Gabriel Scherer,
+ report by Thomas Leonard and Florian Angeletti)

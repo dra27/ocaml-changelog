@@ -1,0 +1,5 @@
+PR#4747, GPR#328: Optimize Hashtbl by using in-place updates of its
+internal bucket lists.  All operations run in constant stack size
+and are usually faster, except Hashtbl.copy which can be much
+slower
+(Alain Frisch)

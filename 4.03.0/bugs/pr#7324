@@ -1,0 +1,3 @@
+PR#7324: OCaml 4.03.0 type checker dies with an assert failure when
+given some cyclic recusive module expression
+(Jacques Garrigue, report by jmcarthur)

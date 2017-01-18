@@ -1,0 +1,2 @@
+PR#6742: remove duplicate virtual_flag information from Tstr_class
+(Gabriel Radanne and Jacques Garrigue)

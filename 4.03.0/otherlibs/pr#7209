@@ -1,0 +1,3 @@
+PR#7209: do not run at_exit handlers in [Unix.create_process] and
+similar functions when the [exec] call fails in the child process
+(Jérémie Dimino)

@@ -1,0 +1,2 @@
+PR#7042, GPR#295: CSE optimization confuses the FP literals +0.0 and -0.0
+(Xavier Leroy)

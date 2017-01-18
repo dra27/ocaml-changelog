@@ -1,0 +1,2 @@
+PR#5934: integer shift by negative amount (in otherlibs/num)
+(Xavier Leroy, report by John Regehr)

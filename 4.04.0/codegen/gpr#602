@@ -1,0 +1,2 @@
+GPR#602: Do not generate dummy code to force module linking
+(Pierre Chambart, reviewed by Jacques Garrigue)

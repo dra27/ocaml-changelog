@@ -1,0 +1,2 @@
+PR#6216: inlining of GADT matches generates invalid assembly
+(Xavier Leroy and Alain Frisch, report by Mark Shinwell)

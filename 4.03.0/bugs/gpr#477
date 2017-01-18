@@ -1,0 +1,3 @@
+GPR#477: reallow docstrings inside object types, and inside polymorphic
+variant and arrow types
+(Thomas Refis)

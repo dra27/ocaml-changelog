@@ -1,0 +1,2 @@
+PR#6232: Don't use [mktemp] on platforms where [mkstemp] is available
+(Stéphane Glondu, Mark Shinwell)

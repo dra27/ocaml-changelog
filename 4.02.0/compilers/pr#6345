@@ -1,0 +1,2 @@
+PR#6345: Better compilation of optional arguments with default values
+(Alain Frisch, review by Jacques Garrigue)

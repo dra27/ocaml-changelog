@@ -1,0 +1,2 @@
+PR#7196: "let open" is not correctly pretty-printed to the left of a ';'
+(Gabriel Scherer, report by Christophe Raffalli)

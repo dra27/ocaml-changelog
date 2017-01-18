@@ -1,0 +1,3 @@
+*Some .cmi for toplevel internals that used to be installed in
+`ocamlc -where` are now to be found in  `ocamlc -where`/compiler-libs.
+Add "-I +compiler-libs" where needed.

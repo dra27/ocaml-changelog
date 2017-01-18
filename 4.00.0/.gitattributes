@@ -1,0 +1,10 @@
+language ocaml-changes-title=Language+features
+compilers ocaml-changes-title=Compilers
+codegen ocaml-changes-title=Native-code+compiler
+stdlib ocaml-changes-title=Standard+library
+pruning ocaml-changes-title=Shedding+weight
+tools ocaml-changes-title=Tools
+build ocaml-changes-title=Compiler+distribution+build+system
+install ocaml-changes-title=Installation+procedure
+bugs ocaml-changes-title=Bug+fixes
+features ocaml-changes-title=Feature+wishes

@@ -1,0 +1,3 @@
+GPR#516: Improve Texp_record constructor representation, and
+propagate updated record type information
+(Pierre Chambart, review by Alain Frisch)

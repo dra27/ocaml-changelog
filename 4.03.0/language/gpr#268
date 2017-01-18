@@ -1,0 +1,4 @@
+GPR#268: hexadecimal notation for floating-point literals: -0x1.ffffp+987
+In OCaml source code, FP literals can be written using the hexadecimal
+notation 0x<mantissa in hex>p<exponent> from ISO C99.
+(Xavier Leroy)

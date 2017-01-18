@@ -1,0 +1,3 @@
+PR#6490: incorrect backtraces in gdb on AArch64.  Also fixes incorrect
+backtraces on 32-bit ARM.
+(Mark Shinwell)

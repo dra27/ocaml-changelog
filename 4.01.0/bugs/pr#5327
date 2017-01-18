@@ -1,0 +1,3 @@
+PR#5327: (Windows) Unix.select blocks if same socket listed in first and
+third arguments
+(David Allsopp, displaying impressive MSDN skills)

@@ -1,0 +1,2 @@
+PR#6056: Using 'match' prevents generalization of values
+(Jacques Garrigue, report by Elnatan Reisner)

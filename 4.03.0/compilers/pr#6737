@@ -1,0 +1,2 @@
+PR#6737: fix Typedtree attributes on (fun x -> body) expressions
+(Alain Frisch, report by Oleg Kiselyov)

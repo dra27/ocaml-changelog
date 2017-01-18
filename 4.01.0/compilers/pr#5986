@@ -1,0 +1,3 @@
+PR#5986: added flag -compat-32 to ocamlc, ensuring that the generated
+bytecode executable can be loaded on 32-bit hosts.
+(Xavier Leroy)

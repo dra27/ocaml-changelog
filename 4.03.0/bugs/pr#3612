@@ -1,0 +1,2 @@
+PR#3612: memory leak in bigarray read from file
+(Pierre Chambart, report by Gary Huber)

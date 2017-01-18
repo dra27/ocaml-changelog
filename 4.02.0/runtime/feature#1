@@ -1,0 +1,6 @@
+New configure option "-no-naked-pointers" to improve performance by
+avoiding page table tests during block darkening and the marking phase
+of the major GC.  In this mode, all out-of-heap pointers must point at
+things that look like OCaml values: in particular they must have a valid
+header.  The colour of said headers should be black.
+(Mark Shinwell, reviews by Damien Doligez and Xavier Leroy)

@@ -1,0 +1,3 @@
+GPR#451: an optional 'parallel' target in testsuite/Makefile using the
+GNU parallel tool to run tests in parallel.
+(Gabriel Scherer)

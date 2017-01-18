@@ -1,0 +1,2 @@
+PR#6812: -short-paths and -no-alias-deps can create inconsistent assumptions
+(Jacques Garrigue, report by Valentin Gatien-Baron)

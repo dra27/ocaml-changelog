@@ -1,0 +1,2 @@
+PR#6998: Typer fails reading unnecessary cmis with -no-alias-deps and -w -49
+(Leo White, report by Valentin Gatien-Baron)

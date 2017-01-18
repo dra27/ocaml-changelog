@@ -1,0 +1,2 @@
+Misplaced assertion in major_gc.c for no-naked-pointers mode
+(Stephen Dolan, Mark Shinwell)

@@ -1,0 +1,5 @@
+GPR#240: replace special annotations on externals by attributes:
+* "float" is generalized to [@@unboxed]
+* "noalloc" becomes [@@noalloc]
+Deprecate "float" and "noalloc".
+(Jérémie Dimino)

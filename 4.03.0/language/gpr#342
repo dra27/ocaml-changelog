@@ -1,0 +1,5 @@
+*GPR#342: Allow shortcuts for extension and attributes on all keywords:
+module%foo, class[@foo], etc.
+The attribute in "let[@foo] .. in .." is now attached to the value binding,
+not to the expression.
+(Gabriel Radanne)

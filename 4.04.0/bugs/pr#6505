@@ -1,0 +1,5 @@
+*PR#6505: Missed Type-error leads to a segfault upon record access.
+Proper fix required a more restrictive approach to recursive types:
+mutually recursive types are seen as abstract types (i.e. non-contractive)
+when checking the well-foundedness of the recursion.
+(Jacques Garrigue, extra report by Stephen Dolan)

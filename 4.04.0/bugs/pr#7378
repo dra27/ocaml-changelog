@@ -1,0 +1,2 @@
+PR#7378: GADT constructors can be re-exposed with an incompatible type
+(Jacques Garrigue, report by Alain Frisch)

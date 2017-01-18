@@ -1,0 +1,2 @@
+PR#5358: first class modules don't allow "with type" declarations for types
+in sub-modules

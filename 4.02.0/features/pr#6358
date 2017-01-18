@@ -1,0 +1,2 @@
+PR#6358: obey DESTDIR in install targets
+(Gabriel Scherer, request by François Berenger)

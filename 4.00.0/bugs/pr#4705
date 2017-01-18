@@ -1,0 +1,1 @@
+PR#4705: camlp4 does not allow to define types with `True or `False

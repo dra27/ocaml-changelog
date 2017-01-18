@@ -1,0 +1,2 @@
+PR#7165, GPR#494: uncaught exception on invalid lexer directive
+(Gabriel Scherer, report by KC Sivaramakrishnan using afl-fuzz)

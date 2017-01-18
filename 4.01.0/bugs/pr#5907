@@ -1,0 +1,2 @@
+PR#5907: Undetected cycle during typecheck causes exceptions
+(Jacques Garrigue, report by Pascal Zimmer)

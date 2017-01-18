@@ -1,0 +1,2 @@
+PR#6585: fix memory leak in win32unix/createprocess.c
+(Alain Frisch, report by user 'aha')

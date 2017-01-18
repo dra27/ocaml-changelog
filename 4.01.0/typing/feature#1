@@ -1,0 +1,5 @@
+*Propagate type information towards pattern-matching, even in the presence of
+polymorphic variants (discarding only information about possibly-present
+constructors). As a result, matching against absent constructors is no longer
+allowed for exact and fixed polymorphic variant types.
+(Jacques Garrigue)

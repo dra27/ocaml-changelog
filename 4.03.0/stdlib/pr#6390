@@ -1,0 +1,2 @@
+PR#6390, GPR#36: expose Sys.{int_size,max_wosize} for js_of_ocaml portability
+(Hugo Heuzard)

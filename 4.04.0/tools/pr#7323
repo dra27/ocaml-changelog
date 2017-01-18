@@ -1,0 +1,2 @@
+PR#7323, GPR#750: ensure "ocamllex -ml" works with -safe-string
+(Hongbo Zhang)

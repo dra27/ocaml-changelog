@@ -1,0 +1,6 @@
+GPR#22: Fix the cleaning of weak pointers. In very rare cases
+accessing a value during the cleaning of the weak pointers could
+result in the value being removed from one weak arrays and kept in
+another one. That breaks the property that a value is removed from a
+weak pointer only when it is dead and garbage collected.
+(François Bobot, review by Damien Doligez)

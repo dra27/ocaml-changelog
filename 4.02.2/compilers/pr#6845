@@ -1,0 +1,2 @@
+PR#6845: -no-check-prims to tell ocamlc not to check primitives in runtime
+(Alain Frisch)

@@ -1,0 +1,5 @@
+*PR#6494: Add 'equal' functions in modules
+Bytes, Char, Digest, Int32, Int64, Nativeint, and String
+Users defining their own modules with signature 'module type of Int32'
+have to extend their implementation.
+(Romain Calascibetta)

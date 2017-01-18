@@ -1,0 +1,2 @@
+PR#6183: enhanced documentation for 'Unix.shutdown_connection'
+(Anil Madhavapeddy, report by Jun Furuse)

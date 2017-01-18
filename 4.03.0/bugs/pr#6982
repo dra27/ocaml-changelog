@@ -1,0 +1,2 @@
+PR#6982: unexpected type error when packing a module alias
+(Jacques Garrigue, report by Valentin Gatien-Baron)

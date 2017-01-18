@@ -1,0 +1,3 @@
+OCamlbuild now features a strict_sequence tag to trigger the
+strict-sequence option.
+(Jonathan Protzenko)

@@ -1,0 +1,1 @@
+PR#5233: finaliser on weak array gives dangling pointers (crash)

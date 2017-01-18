@@ -1,0 +1,2 @@
+tools/eqparsetree compares two parsetree ignoring location
+(Hongbo Zhang)

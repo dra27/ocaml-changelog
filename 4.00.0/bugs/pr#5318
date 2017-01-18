@@ -1,0 +1,1 @@
+PR#5318: segfault on stack overflow when reading marshaled data

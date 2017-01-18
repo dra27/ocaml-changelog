@@ -1,0 +1,3 @@
+GPR#589: Add a non-allocating function to recover the number of
+allocated minor words.
+(Pierre Chambart, review by Damien Doligez and Gabriel Scherer)

@@ -1,0 +1,2 @@
+PR#5546: moving a function into an internal module slows down its use
+(Alain Frisch, report by Fabrice Le Fessant)

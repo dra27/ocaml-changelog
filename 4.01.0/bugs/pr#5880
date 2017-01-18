@@ -1,0 +1,2 @@
+PR#5880: 'Genlex.make_lexer' documention mentions the wrong exception
+(Xavier Clerc, report by Virgile Prevosto)

@@ -1,0 +1,1 @@
+PR#1496: allow configuring LIBDIR, BINDIR, and MANDIR relative to $(PREFIX)

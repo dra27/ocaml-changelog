@@ -1,0 +1,2 @@
+PR#6526: ocamllex should not warn on unescaped newline inside comments
+(Damien Doligez, report by user 'dhekir')

@@ -1,0 +1,2 @@
+PR#6584: ocamldep support for "-open M"
+(Gabriel Scherer, review by Damien Doligez, report by Hezekiah M. Carty)

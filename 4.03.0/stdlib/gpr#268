@@ -1,0 +1,3 @@
+GPR#268, GPR#303: '%h' and '%H' modifiers for printf and scanf to
+support floating-point numbers in hexadecimal notation
+(Xavier Leroy, Benoît Vaugon)

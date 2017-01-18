@@ -1,0 +1,3 @@
+PR#6257: handle full doc comments for variant constructors and
+record fields
+(Maxence Guesdon, request by ygrek)

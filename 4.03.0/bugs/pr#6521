@@ -1,0 +1,3 @@
+*PR#6521: {Bytes,Char,String}.escaped were locale-dependent
+we now escape all non-ASCII-printable instead of a locale-dependent subset.
+(Damien Doligez, report by Jun Furuse)

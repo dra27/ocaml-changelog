@@ -1,0 +1,4 @@
+PR#6681, GPR#326: signature items are now accepted as payloads for
+extension and attributes, using the syntax [%foo: SIG ] or [@foo: SIG ].
+Examples: "[%%client: val foo : int]" or "val%client foo : int".
+(Alain Frisch and Gabriel Radanne)

@@ -1,0 +1,3 @@
+PR#7291, GPR#780: Handle specialisation of recursive function that does
+not always preserve the arguments
+(Pierre Chambart, Mark Shinwell, report by Simon Cruanes)

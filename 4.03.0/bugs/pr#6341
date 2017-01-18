@@ -1,0 +1,2 @@
+PR#6341: ocamldoc -colorize-code adds spurious <br> tags to <pre> blocks
+(Maxence Guesdon, report by Damien Doligez)

@@ -1,0 +1,2 @@
+PR#7305: -principal causes loop in type checker when compiling
+(Jacques Garrigue, report by Anil Madhavapeddy, analysis by Leo White)

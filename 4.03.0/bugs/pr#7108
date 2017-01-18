@@ -1,0 +1,2 @@
+PR#7108: ocamldoc, have -html preserve custom/extended html generators
+(Armaël Guéneau)

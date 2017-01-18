@@ -1,0 +1,2 @@
+PR#7112: Aliased arguments ignored for equality of module types
+(Jacques Garrigue, report by Leo White)

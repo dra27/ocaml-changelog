@@ -1,0 +1,2 @@
+PR#6805: Duplicated expression in case of hole in a non-failing switch.
+(Luc Maranget)

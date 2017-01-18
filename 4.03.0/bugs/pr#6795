@@ -1,0 +1,3 @@
+PR#6795, PR#6996: Make ocamldep report errors passed in
+[%ocaml.error] extension points
+(Jérémie Dimino)

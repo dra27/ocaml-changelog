@@ -1,0 +1,2 @@
+PR#6602: Fatal error when tracing a function with abstract type
+(Jacques Garrigue, report by Hugo Herbelin)

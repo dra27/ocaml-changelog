@@ -1,0 +1,2 @@
+PR#6565: compilation fails with Env.Error(_)
+(Jacques Garrigue and Mark Shinwell)

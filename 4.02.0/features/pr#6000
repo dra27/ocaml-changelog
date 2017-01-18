@@ -1,0 +1,2 @@
+PR#6000: (comment 9644) add a warning for non-principal coercions to format
+(Jacques Garrigue, report by Damien Doligez)

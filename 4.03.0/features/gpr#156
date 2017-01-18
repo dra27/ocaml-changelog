@@ -1,0 +1,3 @@
+GPR#156, GPR#279: optimize caml_frame_descriptors realloc (dynlink speedup)
+(Pierre Chambart, Alain Frisch,
+ review by François Bobot, Xavier Leroy and Damien Doligez)

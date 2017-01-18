@@ -1,0 +1,1 @@
+PR#5416: (Windows) Unix.(set|clear)_close_on_exec now preserves blocking mode

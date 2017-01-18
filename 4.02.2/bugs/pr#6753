@@ -1,0 +1,2 @@
+PR#6753: Num.quo_num and Num.mod_num incorrect for some negative arguments
+(Xavier Leroy)

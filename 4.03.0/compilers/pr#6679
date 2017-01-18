@@ -1,0 +1,2 @@
+PR#6679: fix pprintast printing of constraints in type declarations
+(Alain Frisch, report by Jun Furuse)

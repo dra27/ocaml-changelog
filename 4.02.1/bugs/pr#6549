@@ -1,0 +1,2 @@
+PR#6549: Debug section is sometimes not readable when using -pack
+(Hugo Heuzard, review by Gabriel Scherer)

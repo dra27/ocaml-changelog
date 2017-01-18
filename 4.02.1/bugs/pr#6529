@@ -1,0 +1,2 @@
+PR#6529: fix quadratic-time algorithm in Consistbl.extract.
+(Xavier Leroy, Alain Frisch, relase-worthy report by Jacques-Pascal Deplaix)

@@ -1,0 +1,2 @@
+PR#6669: fix 4.02 regression in toplevel printing of lazy values
+(Leo White, review by Gabriel Scherer)

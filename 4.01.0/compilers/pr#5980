@@ -1,0 +1,4 @@
+PR#5980: warning on open statements which shadow an existing
+identifier (if it is actually used in the scope of the open); new
+open! syntax to silence it locally
+(Alain Frisch, thanks to a report of Daniel Bünzli)

@@ -1,0 +1,2 @@
+PR#6563: Inclusion of packs failing to run module initializers
+(Jacques Garrigue, report by Mark Shinwell)

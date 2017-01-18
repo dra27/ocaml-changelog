@@ -1,0 +1,3 @@
+PR#7276: Support more than FD_SETSIZE sockets in Windows' emulation
+of select
+(David Scott, review by Alain Frisch)

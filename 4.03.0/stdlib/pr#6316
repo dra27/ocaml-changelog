@@ -1,0 +1,2 @@
+PR#6316: Scanf.scanf failure on %u formats when reading big integers
+(Xavier Leroy, Benoît Vaugon)

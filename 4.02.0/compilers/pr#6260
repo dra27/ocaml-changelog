@@ -1,0 +1,2 @@
+PR#6260: avoid unnecessary boxing in let
+(Vladimir Brankov)

@@ -1,0 +1,2 @@
+PR#6302: bytecode debug information re-read from filesystem every time
+(Jacques-Henri Jourdan)

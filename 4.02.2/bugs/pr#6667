@@ -1,0 +1,2 @@
+PR#6667: wrong implementation of %bswap16 on ARM64
+(Xavier Leroy)

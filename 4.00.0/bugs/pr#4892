@@ -1,0 +1,1 @@
+PR#4892: Array.set could raise "out of bounds" before evaluating 3rd arg

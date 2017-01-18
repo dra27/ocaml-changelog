@@ -1,0 +1,2 @@
+*PR#6808: the parsing of OCAMLRUNPARAM is too lax
+(Damien Doligez)

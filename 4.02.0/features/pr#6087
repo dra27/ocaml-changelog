@@ -1,0 +1,2 @@
+PR#6087: ocamlbuild, improve _tags parsing of escaped newlines
+(Gabriel Scherer, request by Daniel Bünzli)

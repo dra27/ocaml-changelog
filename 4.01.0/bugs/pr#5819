@@ -1,0 +1,2 @@
+PR#5819: segfault when using [with] on large recursive record (ocamlopt)
+(Xavier Leroy, Damien Doligez)

@@ -1,0 +1,3 @@
+PR#6233: out-of-bounds exceptions lose their locations on ARM, PowerPC
+(Jacques-Henri Jourdan and Xavier Leroy,
+ report and testing by Stéphane Glondu)

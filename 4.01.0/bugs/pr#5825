@@ -1,0 +1,3 @@
+PR#5825: Add a toplevel primitive to use source file wrapped with the
+coresponding module
+(Grégoire Henry, Wojciech Meyer, caml-list discussion)

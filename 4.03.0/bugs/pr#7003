@@ -1,0 +1,2 @@
+PR#7003: String.sub may cause segmentation fault on sizes above 2^31
+(Damien Doligez, report by Radek Micek)

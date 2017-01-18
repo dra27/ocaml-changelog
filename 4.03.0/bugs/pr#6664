@@ -1,0 +1,2 @@
+*PR#6664: Crash when finalising lazy values of the wrong type.
+(Damien Doligez)

@@ -1,0 +1,2 @@
+Improve speed of classify_float by not going through fpclassify()
+(Alain Frisch, Xavier Leroy)

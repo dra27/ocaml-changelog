@@ -1,0 +1,3 @@
+PR#6507: crash on AArch64 resulting from incorrect setting of
+[caml_bottom_of_stack].
+(Richard Jones, Mark Shinwell)

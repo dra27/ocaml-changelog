@@ -1,0 +1,2 @@
+PR#6502: ocamlbuild spurious warning on "use_menhir" tag
+(Xavier Leroy)

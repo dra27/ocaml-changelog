@@ -1,0 +1,3 @@
+PR#6263: add kind_size_in_bytes and size_in_bytes functions
+to Bigarray module.
+(Runhang Li, review by Mark Shinwell)

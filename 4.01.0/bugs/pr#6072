@@ -1,0 +1,2 @@
+PR#6072: configure does not handle FreeBSD current (i.e. 10) correctly
+(Damien Doligez, report by Prashanth Mundkur)

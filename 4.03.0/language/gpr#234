@@ -1,0 +1,4 @@
+*GPR#234: allow "[]" as a user-defined constructor. Demand parenthesis
+around "::" when using "::" as user-defined constructor:
+code using "| :: of ..." must change to "| (::) of ...".
+(Runhang Li, review by Damien Doligez)

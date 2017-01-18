@@ -1,0 +1,3 @@
+PR#6468: toplevel now supports backtraces if invoked with OCAMLRUNPARAM=b
+(whitequark and Jake Donham,
+ review by Gabriel Scherer and Jacques-Henri Jourdan)

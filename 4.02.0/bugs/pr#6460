@@ -1,0 +1,3 @@
+PR#6460: runtime assertion failure with large [| e1;...eN |]
+float array expressions
+(Leo White)

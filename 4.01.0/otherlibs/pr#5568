@@ -1,0 +1,3 @@
+PR#5568: add O_CLOEXEC flag to Unix.openfile, so that the returned
+file descriptor is created in close-on-exec mode
+(Xavier Leroy)

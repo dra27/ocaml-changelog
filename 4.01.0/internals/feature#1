@@ -1,0 +1,3 @@
+Moved debugger/envaux.ml to typing/envaux.ml to publish env_of_only_summary
+as part of compilerlibs, to be used on bin-annot files.
+(Fabrice Le Fessant)

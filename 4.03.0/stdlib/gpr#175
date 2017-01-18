@@ -1,0 +1,3 @@
+GPR#175: Guarantee that Map.add, Map.remove, Map.filter
+return the original map if no change is required.
+(Mohamed Iguernlala)

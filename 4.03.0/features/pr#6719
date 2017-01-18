@@ -1,0 +1,2 @@
+PR#6719: improve Buffer.add_channel when not enough input is available
+(Simon Cruanes)

@@ -1,0 +1,2 @@
+PR#6469: invalid -dsource printing of "external _pipe = ...", "Pervasives.(!)"
+(Gabriel Scherer and Damien Doligez, user 'ngunn')

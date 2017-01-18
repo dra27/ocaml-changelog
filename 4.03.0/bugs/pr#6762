@@ -1,0 +1,3 @@
+PR#6762: improve warning 45 in presence of re-exported type definitions
+(Warning 45: open statement shadows the constructor)
+(Alain Frisch, report by Olivier Andrieu)

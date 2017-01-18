@@ -1,0 +1,2 @@
+Lack of type normalization lead to missing simple compilation for "lazy x"
+(Alain Frisch)

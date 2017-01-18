@@ -1,0 +1,2 @@
+PR#6671: Windows: environment variable 'TZ' affects Unix.gettimeofday
+(Mickael Delahaye and Damien Doligez)

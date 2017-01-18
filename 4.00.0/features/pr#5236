@@ -1,0 +1,2 @@
+PR#5236: new '%revapply' primitive with the semantics 'revapply x f = f x',
+and '%apply' with semantics 'apply f x = f x'.

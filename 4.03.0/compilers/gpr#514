@@ -1,0 +1,5 @@
+GPR#514, GPR#554: Added several command-line flags to explicitly enable
+settings that are currently the default:
+`-alias-deps`, `-app-funct`, `-no-keep-docs`, `-no-keep-locs`,
+`-no-principal`, `-no-rectypes`, `-no-strict-formats`
+(Demi Obenour)

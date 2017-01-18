@@ -1,0 +1,2 @@
+PR#7082: Object type in recursive module's `with` annotation
+(Jacques Garrigue and Alain Frisch, report by Nicholas Labich)

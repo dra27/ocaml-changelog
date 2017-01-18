@@ -1,0 +1,2 @@
+PR#6893: ocamlbuild:  "tag not used" warning when using (p)dep
+(Gabriel Scherer, report by Christiano Haesbaert)

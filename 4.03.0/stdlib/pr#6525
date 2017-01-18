@@ -1,0 +1,3 @@
+*PR#6525, GPR#80: Add Uchar module to the standard library
+May introduce module name conflicts with existing projects.
+(Daniel Bünzli, review by Yoriyuki Yamagata and Damien Doligez)

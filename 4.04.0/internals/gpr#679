@@ -1,0 +1,2 @@
+GPR#679: delay registration of docstring after the mapper is applied
+(Hugo Heuzard, review by Leo White)

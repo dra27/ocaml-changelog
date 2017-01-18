@@ -1,0 +1,3 @@
+GPR#273: allow to get the extension slot of an extension constructor
+by writing [%extension_constructor <path>]
+(Jérémie Dimino)

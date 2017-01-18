@@ -1,0 +1,2 @@
+PR#5271: Location.prerr_warning is hard-coded to use Format.err_formatter
+(Damien Doligez, report by Rolf Rolles)

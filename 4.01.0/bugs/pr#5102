@@ -1,0 +1,2 @@
+PR#5102: ocamlbuild fails when using an unbound variable in rule dependency
+(Xavier Clerc, report by Daniel Bünzli)

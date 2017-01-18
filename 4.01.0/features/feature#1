@@ -1,0 +1,2 @@
+ocamlbuild tag 'no_alias_deps'
+(Daniel Bünzli)

@@ -1,0 +1,3 @@
+New back-end optimization pass: common subexpression elimination (CSE).
+(Reuses results of previous computations instead of recomputing them.)
+(Xavier Leroy)

@@ -1,0 +1,1 @@
+PR#4963, PR#5467: no extern "C" into ocaml C-stub headers

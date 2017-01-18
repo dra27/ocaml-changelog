@@ -1,0 +1,4 @@
+PR#7016: fix Stack overflow in GADT typing
+Note: Equi-recursive types are considered when checking GADT pattern
+exhaustiveness, even when -rectypes is not used.
+(Jacques Garrigue, report by Mikhail Mandrykin)

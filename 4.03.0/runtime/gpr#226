@@ -1,0 +1,6 @@
+*GPR#226: select higher levels of optimization for GCC >= 3.4 and Clang
+when compiling the run-time system and C stub code.
+"-std=gnu99 -O2 -fno-strict-aliasing -fwrapv" is used by default.
+This also affects default flags for user stubs compiled with "ocamlc -c foo.c"
+and may uncover bugs in them.
+(Xavier Leroy)

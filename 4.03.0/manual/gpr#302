@@ -1,0 +1,4 @@
+GPR#302: The OCaml reference manual is now included in the manual/
+subdirectory of the main OCaml source repository. Contributions to
+the manual are warmly welcome.
+(François Bobot, review by Florian Angeletti)

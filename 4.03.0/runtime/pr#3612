@@ -1,0 +1,3 @@
+PR#3612, GPR#92: allow allocating custom block with finalizers
+in the minor heap.
+(Pierre Chambart)

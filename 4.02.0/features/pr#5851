@@ -1,0 +1,2 @@
+PR#5851: warn when -r is disabled because no _tags file is present
+(Gabriel Scherer)

@@ -1,0 +1,2 @@
+PR#5769: Allow propagation of Sys.big_endian in native code
+(Pierre Chambart, stealth commit by Fabrice Le Fessant)

@@ -1,0 +1,2 @@
+PR#5509: misclassification of statically-allocated empty array that
+falls exactly at beginning of an otherwise unused data page.

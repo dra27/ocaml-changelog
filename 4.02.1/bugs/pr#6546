@@ -1,0 +1,2 @@
+PR#6546: -dsource omits parens for `List ((`String "A")::[]) in patterns
+(Gabriel Scherer, report by whitequark)

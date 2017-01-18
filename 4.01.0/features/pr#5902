@@ -1,0 +1,2 @@
+PR#5902: -ppx based pre-processor executables accept arguments
+(Alain Frisch, report by Wojciech Meyer)

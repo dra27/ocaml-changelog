@@ -1,0 +1,3 @@
+PR#6677: Allow to disable warning 39 (useless "rec") with [@ocaml.warning]
+applied to the first value binding of the would-be "rec" declaration
+(Alain Frisch, report by Jun Furuse)

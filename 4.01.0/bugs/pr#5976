@@ -1,0 +1,2 @@
+PR#5976: crash after recovering from two stack overflows (ocamlopt on MacOS X)
+(Xavier Leroy, report by Pierre Boutillier)

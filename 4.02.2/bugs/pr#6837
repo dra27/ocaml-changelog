@@ -1,0 +1,2 @@
+PR#6837: Build profiling libraries on FreeBSD and NetBSD x86-64
+(Mark Shinwell, report by Michael Grünewald)

@@ -1,0 +1,2 @@
+PR#6180: efficient creation of uninitialized float arrays
+(Alain Frisch, request by Markus Mottl)

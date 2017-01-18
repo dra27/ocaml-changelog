@@ -1,0 +1,1 @@
+PR#5328: under Windows, Unix.select leaves sockets in non-blocking mode

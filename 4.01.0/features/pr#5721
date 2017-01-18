@@ -1,0 +1,2 @@
+PR#5721: configure -with-frame-pointers for Linux perf profiling
+(Fabrice Le Fessant, test by Jérémie Dimino)

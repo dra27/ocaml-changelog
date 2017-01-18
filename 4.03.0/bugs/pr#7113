@@ -1,0 +1,4 @@
+*PR#7113: -safe-string can break GADT compatibility check
+bytes and string are now considered compatible even with -safe-string,
+which may break exhaustivity for code assuming they were disjoint
+(Jacques Garrigue, report by Jeremy Yallop)

@@ -1,0 +1,2 @@
+PR#4099: Bug in Makefile.nt: won't stop on error
+(George Necula)

@@ -1,0 +1,2 @@
+PR#6367, GPR#25: introduce Asttypes.arg_label to encode labelled arguments
+(Frédéric Bour and Jacques Garrigue)

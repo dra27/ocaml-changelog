@@ -1,0 +1,2 @@
+PR#6194: Incorrect unused warning with first-class modules in patterns
+(Jacques Garrigue, report by Markus Mottl and Leo White)

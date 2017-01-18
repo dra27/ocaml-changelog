@@ -1,0 +1,2 @@
+PR#6273: fix Sys.file_exists on large files (Win32)
+(Christoph Bauer)

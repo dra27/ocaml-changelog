@@ -1,0 +1,5 @@
+*GPR#596: make string/bytes distinguishable in the underlying
+compiler implementation; caml_fill_string and caml_create_string are
+deprecated and will be removed in the future, please use
+caml_fill_bytes and caml_create_bytes for migration
+(Hongbo Zhang, review by Damien Doligez, Alain Frisch, and Hugo Heuzard)

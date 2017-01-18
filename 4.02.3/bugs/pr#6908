@@ -1,0 +1,2 @@
+PR#6908: Top-level custom printing for GADTs: interface change in 4.02.2
+(Grégoire Henry, report by Jeremy Yallop)

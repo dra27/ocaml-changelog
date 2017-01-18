@@ -1,0 +1,1 @@
+PR#4746: wrong detection of stack overflows in native code under Linux

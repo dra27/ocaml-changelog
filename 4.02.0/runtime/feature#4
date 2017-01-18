@@ -1,0 +1,3 @@
+Fixed a major performance problem on large heaps (~1GB) by making heap
+increments proportional to heap size by default
+(Damien Doligez)

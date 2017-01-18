@@ -1,0 +1,2 @@
+PR#4719: Sys.executable_name wrong if executable name contains dots (Windows)
+(Alain Frisch, report by Bart Jacobs)

@@ -1,0 +1,2 @@
+PR#6774: new menhir-specific flags "only_tokens" and "external_tokens(Foo)"
+(François Pottier)

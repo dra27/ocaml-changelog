@@ -1,0 +1,2 @@
+GPR#196: Make [Thread.id] and [Thread.self] [noalloc]
+(Clark Gaebel)

@@ -1,0 +1,3 @@
+PR#6239: sometimes wrong stack alignment when raising exceptions
+in -g mode with backtraces active
+(Xavier Leroy, report by Yaron Minsky)

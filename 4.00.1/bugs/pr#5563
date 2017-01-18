@@ -1,0 +1,1 @@
+PR#5563: harden Unix.select against file descriptors above FD_SETSIZE

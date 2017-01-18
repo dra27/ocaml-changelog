@@ -1,0 +1,2 @@
+PR#5953: Unix.system does not handle EINTR
+(Jérémie Dimino)

@@ -1,0 +1,2 @@
+PR#6601: replace strcpy with caml_strdup in sample code
+(Christopher Zimmermann)

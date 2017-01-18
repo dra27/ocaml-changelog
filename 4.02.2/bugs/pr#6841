@@ -1,0 +1,2 @@
+PR#6841: Changing compilation unit name with -o breaks ocamldebug
+(Jacques Garrigue, report by Jordan Walke)

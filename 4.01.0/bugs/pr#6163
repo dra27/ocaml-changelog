@@ -1,0 +1,2 @@
+PR#6163: Assert_failure using polymorphic variants in GADTs
+(Jacques Garrigue, report by Leo White)

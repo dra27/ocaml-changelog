@@ -1,0 +1,2 @@
+PR#5935: a faster version of "raise" which does not maintain the backtrace
+(Alain Frisch)

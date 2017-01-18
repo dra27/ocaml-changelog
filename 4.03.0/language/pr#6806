@@ -1,0 +1,4 @@
+PR#6806: Syntax shortcut for putting a type annotation on a record field:
+{ f1 : typ = e } is sugar for { f1 = (e : typ) }
+{ f1 : typ } is sugar for { f1 = (f1 : typ) }
+(Valentin Gatien-Baron, review by Jérémie Dimino)

@@ -1,0 +1,2 @@
+PR#6497: pass context information to -ppx preprocessors
+(whitequark, Alain Frisch)

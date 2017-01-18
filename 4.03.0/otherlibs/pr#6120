@@ -1,0 +1,5 @@
+*PR#6120, GPR#462: implement Unix.symlink and Unix.readlink on
+Windows. Unix.symlink has a new optional argument to_dir (ignored on
+non-native Windows platforms). stat functions reimplemented to avoid
+buggy Microsoft CRT implementations (native Windows only)
+(David Allsopp, review by Daniel Bünzli)

@@ -1,0 +1,3 @@
+GPR#282: relax short-paths safety check in presence of module aliases, take
+penalty into account while building the printing map.
+(Thomas Refis, Leo White)

@@ -1,0 +1,3 @@
+PR#6820, GPR#560: Add Obj.reachable_words to compute the
+"transitive" heap size of a value
+(Alain Frisch, review by Mark Shinwell and Damien Doligez)

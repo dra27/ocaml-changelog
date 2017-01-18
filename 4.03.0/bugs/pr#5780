@@ -1,0 +1,2 @@
+PR#5780: report more informative type names in GADTs error messages
+(Jacques Garrigue, report by Sebastien Furic)

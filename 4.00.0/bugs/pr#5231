@@ -1,0 +1,1 @@
+PR#5231: camlp4: fix parsing of <:str_item< type t = $x$ >>

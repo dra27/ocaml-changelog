@@ -1,0 +1,3 @@
+PR#7139: clarify the wording of Warning 38
+(Unused exception or extension constructor)
+(Gabriel Scherer)

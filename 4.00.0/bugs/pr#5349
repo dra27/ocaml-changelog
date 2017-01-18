@@ -1,0 +1,1 @@
+PR#5349: Hashtbl.replace uses new key instead of reusing old key

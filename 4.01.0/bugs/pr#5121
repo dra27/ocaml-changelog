@@ -1,0 +1,2 @@
+PR#5121: %( %) in Format module seems to be broken
+(Pierre Weis, first patch by Valentin Gatien-Baron, report by Khoo Yit Phang)

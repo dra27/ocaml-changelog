@@ -1,0 +1,1 @@
+PR#5516: in Bigarray C stubs, use C99 flexible array types if possible

@@ -1,0 +1,3 @@
+PR#7203, GPR#534: Add a new primitive caml_alloc_float_array to allocate an
+array of floats
+(Thomas Braibant)

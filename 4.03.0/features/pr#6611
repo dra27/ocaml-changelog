@@ -1,0 +1,2 @@
+PR#6611: remove the option wrapper on optional arguments in the syntax tree
+(Alain Frisch, review by Damien Doligez, request by whitequark)

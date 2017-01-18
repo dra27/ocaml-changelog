@@ -1,0 +1,3 @@
+GPR#335: Type error messages specifies if a type is abstract
+because no corresponding cmi could be found.
+(Hugo Heuzard)

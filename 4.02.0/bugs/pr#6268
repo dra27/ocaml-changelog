@@ -1,0 +1,2 @@
+PR#6268: -DMODEL_$(MODEL) not passed when building asmrun/arm.p.o
+(Peter Michael Green)

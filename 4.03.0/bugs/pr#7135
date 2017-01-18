@@ -1,0 +1,2 @@
+PR#7135: only warn about ground coercions in -principal mode
+(Jacques Garrigue, report by Jeremy Yallop)

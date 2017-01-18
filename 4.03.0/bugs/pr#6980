@@ -1,0 +1,2 @@
+PR#6980: Assert failure from polymorphic variants and existentials
+(Jacques Garrigue, report by Leo White)

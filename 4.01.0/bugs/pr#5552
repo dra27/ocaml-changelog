@@ -1,0 +1,2 @@
+PR#5552: unrecognized gcc option -no-cpp-precomp
+(Damien Doligez, report by Markus Mottl)

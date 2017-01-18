@@ -1,0 +1,4 @@
+*PR#6333: Compare first class module types structurally rather than
+nominally. Value subtyping allows module subtyping as long as the internal
+representation is unchanged.
+(Jacques Garrigue)

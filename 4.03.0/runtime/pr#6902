@@ -1,0 +1,7 @@
+PR#6902, GPR#210: emit a runtime warning on stderr when finalizing an I/O
+channel which is still open:
+  "channel opened on file '...' dies without being closed"
+this is controlled by OCAMLRUNPARAM=W=1 or with Sys.enable_runtime_warnings.
+The behavior of affected program is not changed,
+but they should still be fixed.
+(Alain Frisch, review by Damien Doligez)

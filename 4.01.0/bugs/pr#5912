@@ -1,0 +1,2 @@
+PR#5912: add configure option -no-cfi (for OSX 10.6.x with XCode 4.0.2)
+(Damien Doligez against XCode versions, report by Thomas Gazagnaire)

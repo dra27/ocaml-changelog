@@ -1,0 +1,2 @@
+PR#6702: explicit "linkpkg" and "dontlink(foo)" flags
+(whitequark, Gabriel Scherer)

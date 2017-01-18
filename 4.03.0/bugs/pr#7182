@@ -1,0 +1,2 @@
+PR#7182: Assertion failure with recursive modules and externals
+(Jacques Garrigue, report by Jeremy Yallop)

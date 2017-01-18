@@ -1,0 +1,5 @@
+*PR#4539: change exception string raised when comparing functional values
+May break programs matching on the string argument of Invalid_argument.
+Matching on the string argument of Invalid_argument or Failure is a
+programming mistake: these strings may change in future versions.
+(Nicolas Braud-Santoni, report by Eric Cooper)

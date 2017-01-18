@@ -1,0 +1,2 @@
+PR#5479: Num.num_of_string may raise an exception, not reflected in the
+documentation.

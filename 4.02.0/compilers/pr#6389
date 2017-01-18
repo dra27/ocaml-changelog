@@ -1,0 +1,2 @@
+PR#6389: ocamlopt -opaque option for incremental native compilation
+(Pierre Chambart, Gabriel Scherer)

@@ -1,0 +1,3 @@
+*PR#6081: ocaml now adds script's directory to search path, not current
+directory
+(Thomas Leonard and Damien Doligez)

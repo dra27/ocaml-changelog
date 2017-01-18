@@ -1,0 +1,2 @@
+PR#6184: ocamlbuild: `ocamlfind ocamldep` does not support -predicate
+(Jacques-Pascal Deplaix)

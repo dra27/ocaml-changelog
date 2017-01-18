@@ -1,0 +1,3 @@
+*PR#5119: camlp4 now raises a specific exception when 'DELETE_RULE' fails,
+rather than raising 'Not_found'
+(ygrek)

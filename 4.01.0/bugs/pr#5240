@@ -1,0 +1,2 @@
+PR#5240: register exception printers for Unix.Unix_error and Dynlink.Error
+(Jérémie Dimino)

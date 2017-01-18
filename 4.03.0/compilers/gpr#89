@@ -1,0 +1,5 @@
+GPR#89: improve type-specialization of unapplied primitives:
+unapplied annotations (compare : int -> _),
+type propagation (List.sort compare [1;2;3])
+and propagation from module signatures now lead to specialization
+(Frédéric Bour, review by Gabriel Scherer)

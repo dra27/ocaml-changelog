@@ -1,0 +1,2 @@
+PR#6075: avoid using unsafe C library functions (strcpy, strcat, sprintf)
+(Xavier Leroy, reports from user 'jfc' and Anil Madhavapeddy)

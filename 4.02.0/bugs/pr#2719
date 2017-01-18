@@ -1,0 +1,3 @@
+PR#2719: wrong scheduling of bound checks within a
+try...with Invalid_argument -> _ ...
+(Xavier Leroy)

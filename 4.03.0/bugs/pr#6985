@@ -1,0 +1,3 @@
+PR#6985: `module type of struct include Bar end exposes
+%s#row when Bar contains private row types
+(Jacques Garrigue, report by Nicholas Labich)

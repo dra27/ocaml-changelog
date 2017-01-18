@@ -1,0 +1,2 @@
+GPR#26: support for "(type a b)" as syntactic sugar for "(type a) (type b)"
+(Gabriel Scherer)

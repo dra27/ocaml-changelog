@@ -1,0 +1,3 @@
+PR#6296: Some documentation on the floating-point representations
+recognized by Pervasives.float_of_string
+(Xavier Leroy)

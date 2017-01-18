@@ -1,0 +1,2 @@
+PR#5992: Crash when pattern-matching lazy values modifies the scrutinee
+(Luc Maranget, Leo White)

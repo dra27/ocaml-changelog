@@ -1,0 +1,3 @@
+*PR#6035: Reject multiple declarations of the same method or instance variable
+in an object
+(Alain Frisch)

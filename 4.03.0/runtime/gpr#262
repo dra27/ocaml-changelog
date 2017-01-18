@@ -1,0 +1,2 @@
+GPR#262: Multiple GC roots per compilation unit
+(Pierre Chambart, Mark Shinwell, review by Damien Doligez)

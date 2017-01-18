@@ -1,0 +1,2 @@
+PR#6793: ocamlbuild passes nonsensical "-ocamlc ..." commands to menhir
+(Gabriel Scherer, report by Damien Doligez)

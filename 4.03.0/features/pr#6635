@@ -1,0 +1,2 @@
+PR#6635: support M.[], M.(), M.{< >} and M.[| |]
+(Jeremy Yallop, review by Gabriel Radanne)

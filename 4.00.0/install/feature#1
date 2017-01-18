@@ -1,0 +1,8 @@
+Compiler internals are now installed in `ocamlc -where`/compiler-libs.
+The files available there include the .cmi interfaces for all compiler
+modules, plus the following libraries:
+    ocamlcommon.cma/.cmxa     modules common to ocamlc, ocamlopt, ocaml
+    ocamlbytecomp.cma/.cmxa   modules for ocamlc and ocaml
+    ocamloptcomp.cma/.cmxa    modules specific to ocamlopt
+    ocamltoplevel.cma         modules specific to ocaml
+ (PR#1804, PR#4653, frequently-asked feature).

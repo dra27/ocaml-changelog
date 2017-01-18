@@ -1,0 +1,1 @@
+PR#5131: compilation of custom runtime with g++ generates lots of warnings

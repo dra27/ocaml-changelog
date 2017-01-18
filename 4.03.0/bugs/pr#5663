@@ -1,0 +1,3 @@
+PR#5663: program rejected due to nongeneralizable type variable that
+appears nowhere
+(Jacques Garrigue, report by Stephen Weeks)

@@ -1,0 +1,2 @@
+PR#6090: Module constraint + private type seems broken in ocaml 4.01.0
+(Jacques Garrigue, report by Jacques-Pascal Deplaix)

@@ -1,0 +1,3 @@
+PR#6560: Wrong failure message for {Int32,Int64,NativeInt}.of_string
+It reported (Failure "int_of_string"), now "Int32.of_string" etc.
+(Maxime Dénès and Gabriel Scherer)

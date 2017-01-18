@@ -1,0 +1,1 @@
+PR#5715: configuring with -no-shared-libs breaks under cygwin

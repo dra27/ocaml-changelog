@@ -1,0 +1,3 @@
+GPR#207: Colors in compiler messages (warnings, errors)
+configure with -color {auto|always|never} or TERM=dumb
+(Simon Cruanes, review by Gabriel Scherer)

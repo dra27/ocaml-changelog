@@ -1,0 +1,3 @@
+PR#7036: Module alias is not taken into account when checking module
+type compatibility (in a class type)
+(Jacques Garrigue)

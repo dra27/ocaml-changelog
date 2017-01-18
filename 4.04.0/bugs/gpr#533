@@ -1,0 +1,4 @@
+*GPR#533: Thread library: fixed [Thread.wait_signal] so that it
+converts back the signal number returned by [sigwait] to an
+OS-independent number
+(Jérémie Dimino)

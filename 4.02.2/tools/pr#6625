@@ -1,0 +1,2 @@
+PR#6625: pass -linkpkg to files built with -output-obj.
+(whitequark)

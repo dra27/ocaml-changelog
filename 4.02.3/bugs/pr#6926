@@ -1,0 +1,2 @@
+PR#6926: Regression: ocamldoc lost unattached comment
+(Damien Doligez, report by François Bobot)

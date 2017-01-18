@@ -1,0 +1,4 @@
+PR#6331: Slight change in the criterion to distinguish private
+abbreviations and private row types: create a private abbreviation for
+closed objects and fixed polymorphic variants.
+(Jacques Garrigue)

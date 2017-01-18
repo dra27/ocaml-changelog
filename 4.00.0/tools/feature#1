@@ -1,0 +1,3 @@
+*Use first class modules for custom generators, to be able to
+load various plugins incrementally adding features to the current
+generator

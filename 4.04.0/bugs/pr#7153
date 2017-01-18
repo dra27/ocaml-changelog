@@ -1,0 +1,2 @@
+PR#7153: document that Unix.SOCK_SEQPACKET is not really usable.
+(Xavier Leroy)

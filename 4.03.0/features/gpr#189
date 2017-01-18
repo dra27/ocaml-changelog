@@ -1,0 +1,2 @@
+GPR#189: Added .dylib and .so as extensions for ocamlmklib
+(Edgar Aroutiounian, whitequark)

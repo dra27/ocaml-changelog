@@ -1,0 +1,1 @@
+PR#5385: configure: emit a warning when MACOSX_DEPLOYMENT_TARGET is set

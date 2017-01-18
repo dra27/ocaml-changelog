@@ -1,0 +1,3 @@
+PR#7026, GPR#288: remove write barrier for polymorphic variants without
+arguments
+(Simon Cruanes)

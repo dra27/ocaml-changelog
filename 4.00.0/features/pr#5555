@@ -1,0 +1,2 @@
+PR#5555: add function Hashtbl.reset to resize the bucket table to
+its initial size.

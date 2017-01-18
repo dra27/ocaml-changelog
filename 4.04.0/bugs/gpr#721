@@ -1,0 +1,2 @@
+GPR#721: Fix infinite loop in flambda due to [@@specialise] annotations
+(Leo White, review by Pierre Chambart)

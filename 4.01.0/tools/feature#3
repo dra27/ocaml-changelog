@@ -1,0 +1,2 @@
+OCamlbuild now picks the non-core tools like ocamlfind and menhir from PATH
+(Wojciech Meyer)

@@ -1,0 +1,2 @@
+PR#6547: __MODULE__ aborts the compiler if the module name cannot be inferred
+(Jacques Garrigue, report by Kaustuv Chaudhuri)

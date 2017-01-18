@@ -1,0 +1,2 @@
+PR#7220: fix a memory leak when using both threads and exception backtraces
+(Gabriel Scherer, review by François Bobot, report by Rob Hoes)

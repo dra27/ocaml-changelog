@@ -1,0 +1,3 @@
+Signal handling: for read-and-clear, use GCC/Clang atomic builtins
+if available.
+(Xavier Leroy)

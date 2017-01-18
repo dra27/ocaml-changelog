@@ -1,0 +1,2 @@
+PR#5531: Allow ocamlbuild to add ocamldoc flags through -docflag
+and -docflags switches

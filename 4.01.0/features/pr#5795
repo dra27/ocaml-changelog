@@ -1,0 +1,2 @@
+PR#5795: Generate sqrtsd opcode instead of external call to sqrt on amd64
+(Pierre Chambart)

@@ -1,0 +1,1 @@
+PR#5731: instruction scheduling forgot to account for destroyed registers

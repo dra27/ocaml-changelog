@@ -1,0 +1,2 @@
+PR#6720: pass -g to C compilers when tag 'debug' is set
+(whitequark, Gabriel Scherer)

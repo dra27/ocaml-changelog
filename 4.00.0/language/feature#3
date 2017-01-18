@@ -1,0 +1,2 @@
+New (module M) and (module M : S) syntax in patterns, for immediate
+unpacking of a first-class module.

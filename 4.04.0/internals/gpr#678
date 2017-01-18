@@ -1,0 +1,3 @@
+GPR#678: Graphics.close_graph crashes 64-bit Windows ports (re-implementation
+of PR#3963)
+(David Allsopp)

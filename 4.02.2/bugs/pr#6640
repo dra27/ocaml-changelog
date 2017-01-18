@@ -1,0 +1,2 @@
+PR#6640: ocamlbuild: wrong "unused tag" warning on "precious"
+(report by user 'william')

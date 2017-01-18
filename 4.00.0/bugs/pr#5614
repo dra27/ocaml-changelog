@@ -1,0 +1,1 @@
+PR#5614: add missing -linkall flag when compiling ocamldoc.opt

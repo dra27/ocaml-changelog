@@ -1,0 +1,4 @@
+*GPR#512, GPR#587: Installed `ocamlc`, `ocamlopt`, and `ocamllex` are
+now the native-code versions of the tools, if those versions were
+built.
+(Demi Obenour)

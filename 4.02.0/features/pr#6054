@@ -1,0 +1,2 @@
+PR#6054: add support for M.[ foo ], M.[| foo |] etc.
+(Kaustuv Chaudhuri)

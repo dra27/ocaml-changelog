@@ -1,0 +1,3 @@
+PR#5986: new flag Marshal.Compat_32 for the serialization functions
+(Marshal.to_*), forcing the output to be readable on 32-bit hosts.
+(Xavier Leroy)

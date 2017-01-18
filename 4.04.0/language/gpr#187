@@ -1,0 +1,3 @@
+GPR#187, GPR#578: Local opening of modules in a pattern.
+Syntax: "M.(p)", "M.[p]","M.[| p |]", "M.{p}"
+(Florian Angeletti, Jacques Garrigue, review by Alain Frisch)

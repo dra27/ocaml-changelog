@@ -1,0 +1,2 @@
+PR#6931: Incorrect error message on type error inside record construction
+(Damien Doligez, report by Leo White)

@@ -1,0 +1,4 @@
+Random:
+   . More random initialization (Random.self_init()), using /dev/urandom
+     when available (e.g. Linux, FreeBSD, MacOS X, Solaris)
+   * Faster implementation of Random.float (changes the generated sequences)

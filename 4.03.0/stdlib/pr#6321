@@ -1,0 +1,3 @@
+PR#6321: guarantee that "hypot infinity nan = infinity"
+(for conformance with ISO C99)
+(Xavier Leroy)

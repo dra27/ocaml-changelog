@@ -1,0 +1,1 @@
+PR#5543: in Bigarray.map_file, try to avoid using lseek() when growing file

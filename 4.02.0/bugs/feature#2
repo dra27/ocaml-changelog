@@ -1,0 +1,2 @@
+sometimes wrong stack alignment at out-of-bounds array access
+(Gabriel Scherer and Xavier Leroy, report by Pierre Chambart)

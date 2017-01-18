@@ -1,0 +1,2 @@
+PR#5977: Build failure on raspberry pi: "input_value: integer too large"
+(Alain Frisch, report by Sylvain Le Gall)

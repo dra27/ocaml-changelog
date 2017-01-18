@@ -1,0 +1,2 @@
+PR#7181: Misleading error message with GADTs and polymorphic variants
+(Jacques Garrigue, report by Pierre Chambart)

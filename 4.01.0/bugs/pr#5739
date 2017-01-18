@@ -1,0 +1,2 @@
+PR#5739: Printf.printf "%F" (-.nan) returns -nan
+(Xavier Leroy, David Allsopp, reported by Samuel Mimram)

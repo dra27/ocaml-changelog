@@ -1,0 +1,2 @@
+PR#6482: ocamlbuild fails when _tags file in unhygienic directory
+(Gabriel Scherer)

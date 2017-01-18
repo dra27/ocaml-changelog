@@ -1,0 +1,3 @@
+GPR#282: change short-paths penalty heuristic to assign the same cost to
+idents containing double underscores as to idents starting with an underscore
+(Thomas Refis, Leo White)

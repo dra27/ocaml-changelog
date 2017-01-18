@@ -1,0 +1,2 @@
+PR#6348: Unification failure for GADT when original definition is hidden
+(Leo White and Jacques Garrigue, report by Jeremy Yallop)

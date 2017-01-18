@@ -1,0 +1,3 @@
+PR#6108, PR#6802: fail cleanly if dynlink.cma or ocamltoplevel.cma
+are loaded inside the toplevel loop.
+(Xavier Leroy)

@@ -1,0 +1,2 @@
+PR#6388, PR#6424: more parsetree correctness checks for -ppx users
+(Alain Frisch, request by whitequark and Jun Furuse)

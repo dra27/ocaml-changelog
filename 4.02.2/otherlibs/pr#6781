@@ -1,0 +1,2 @@
+PR#6781: Add higher baud rates to Unix termios
+(Damien Doligez, report by Berke Durak)

@@ -1,0 +1,4 @@
+*PR#6235: Keep typing of pattern cases independent in principal mode
+(i.e. information from previous cases is no longer used when typing
+patterns; cf. 'PR#6235' in testsuite/test/typing-warnings/records.ml)
+(Jacques Garrigue)

@@ -1,0 +1,1 @@
+PR#5655: ocamlbuild doesn't pass cflags when building C stubs

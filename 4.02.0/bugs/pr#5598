@@ -1,0 +1,3 @@
+PR#5598, PR#6165: Alterations to handling of \013 in source files
+breaking other tools
+(David Allsopp and Damien Doligez)

@@ -1,0 +1,2 @@
+PR#6626: ocamlbuild on cygwin cannot find ocamlfind
+(Gergely Szilvasy)

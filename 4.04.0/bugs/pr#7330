@@ -1,0 +1,2 @@
+PR#7330: Missing exhaustivity check for extensible variant
+(Jacques Garrigue, report by Elarnon *)

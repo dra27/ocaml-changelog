@@ -1,0 +1,2 @@
+PR#6004: Type information does not flow to "inherit" parameters
+(Jacques Garrigue, report by Alain Frisch)

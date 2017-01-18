@@ -1,0 +1,2 @@
+PR#5300: ocamlbuild: verbose parameter should implicitly set classic display
+(Xavier Clerc, report by Robert Jakob)

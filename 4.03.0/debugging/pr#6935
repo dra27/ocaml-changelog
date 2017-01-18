@@ -1,0 +1,2 @@
+PR#6935, GPR#298: crash in debugger when load_printer is given a directory
+(Junsong Li, review by Gabriel Scherer)

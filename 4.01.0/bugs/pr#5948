@@ -1,0 +1,2 @@
+PR#5948: GADT with polymorphic variants bug
+(Jacques Garrigue, report by Leo White)

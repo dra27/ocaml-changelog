@@ -1,0 +1,2 @@
+PR#5611: avoid clashes betwen .cmo files and output files during linking
+(Wojciech Meyer)

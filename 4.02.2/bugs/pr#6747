@@ -1,0 +1,2 @@
+PR#6747: ocamlobjinfo: missing symbol caml_plugin_header due to underscore
+(Damien Doligez, Maverick Woo)

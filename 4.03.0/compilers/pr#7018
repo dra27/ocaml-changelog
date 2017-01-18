@@ -1,0 +1,2 @@
+PR#7018: fix missing identifier renaming during inlining
+(Alain Frisch, review by Xavier Leroy)

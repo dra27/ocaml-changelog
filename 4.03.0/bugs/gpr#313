@@ -1,0 +1,2 @@
+GPR#313: Prevent quadratic cases in CSE
+(Pierre Chambart, review by Xavier Leroy)

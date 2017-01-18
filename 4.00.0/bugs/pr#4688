@@ -1,0 +1,2 @@
+PR#4688: (Windows) special floating-point values aren't converted to strings
+correctly

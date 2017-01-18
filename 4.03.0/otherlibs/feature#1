@@ -1,0 +1,5 @@
+*Unix library: channels created by Unix.in_channel_of_descr or
+Unix.out_channel_of_descr no longer support text mode under Windows.
+Calling [set_binary_mode_{in,out} chan false] on these channels
+now causes an error.
+(Xavier Leroy)

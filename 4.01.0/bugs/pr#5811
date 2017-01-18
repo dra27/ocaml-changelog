@@ -1,0 +1,3 @@
+PR#5811: Untypeast produces singleton tuples for constructor patterns
+with only one argument
+(Tiphaine Turpin)

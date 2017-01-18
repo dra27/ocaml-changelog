@@ -1,0 +1,2 @@
+PR#6906: wrong error location for unmatched paren with #use in toplevel
+(Damien Doligez, report by Kenichi Asai)

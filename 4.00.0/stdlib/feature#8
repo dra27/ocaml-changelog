@@ -1,0 +1,3 @@
+Format strings for formatted input/output revised to correct PR#5380
+  . Consistently treat %@ as a plain @ character
+  . Consistently treat %% as a plain % character

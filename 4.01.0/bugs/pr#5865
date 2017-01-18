@@ -1,0 +1,2 @@
+PR#5865: assert failure when reporting undefined field label
+(Jacques Garrigue, report by Anil Madhavapeddy)

@@ -1,0 +1,2 @@
+PR#5024: camlp4r now handles underscores in irrefutable pattern matching of
+records

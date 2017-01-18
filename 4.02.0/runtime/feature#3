@@ -1,0 +1,3 @@
+*Blocks initialized by [CAMLlocal*] and [caml_alloc] are now filled with
+[Val_unit] rather than zero.
+(Mark Shinwell)

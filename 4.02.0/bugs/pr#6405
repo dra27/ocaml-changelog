@@ -1,0 +1,2 @@
+PR#6405: unsound interaction of -rectypes and GADTs
+(Jacques Garrigue, report by Gabriel Scherer and Benoît Vaugon)

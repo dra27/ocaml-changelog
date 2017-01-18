@@ -1,0 +1,2 @@
+PR#6246: allow wildcard _ as for-loop index
+(Alain Frisch, request by ygrek)

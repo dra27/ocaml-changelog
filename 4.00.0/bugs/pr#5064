@@ -1,0 +1,4 @@
+PR#5064, PR#5485: try to ensure that 4K words of stack are available
+before calling into C functions, raising a Stack_overflow exception
+otherwise.  This reduces (but does not eliminate) the risk of
+segmentation faults due to stack overflow in C code

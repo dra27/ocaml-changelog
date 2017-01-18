@@ -1,0 +1,2 @@
+PR#6235: Issue with type information flowing through a variant pattern
+(Jacques Garrigue, report by Hongbo Zhang)

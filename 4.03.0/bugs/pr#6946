@@ -1,0 +1,2 @@
+PR#6946: Uncaught exception with wrong type for "%ignore"
+(Jacques Garrigue, report by Leo White)

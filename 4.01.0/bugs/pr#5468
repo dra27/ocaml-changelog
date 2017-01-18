@@ -1,0 +1,2 @@
+PR#5468: ocamlbuild should preserve order of parametric tags
+(Wojciech Meyer, report by Dario Texeira)

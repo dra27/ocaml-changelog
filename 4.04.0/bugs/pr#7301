@@ -1,0 +1,3 @@
+PR#7301, GPR#713: Fix wrong code generation involving lazy values in Flambda
+mode
+(Mark Shinwell, review by Pierre Chambart and Alain Frisch)

@@ -1,0 +1,3 @@
+GPR#473: Provide `Sys.backend_type` so that user can write backend-specific
+code in some cases (for example,  code generator).
+(Hongbo Zhang)

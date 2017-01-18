@@ -1,0 +1,2 @@
+PR#6599: ocamlbuild: add -bin-annot when using -pack
+(Christopher Zimmermann)

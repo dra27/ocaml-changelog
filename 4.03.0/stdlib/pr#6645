@@ -1,0 +1,3 @@
+PR#6645, GPR#174: Guarantee that Set.add, Set.remove, Set.filter
+return the original set if no change is required
+(Alain Frisch, Mohamed Iguernlala)

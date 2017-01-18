@@ -1,0 +1,2 @@
+PR#6243: Make "ocamlopt -g" more resistant to ill-formed locations
+(Xavier Leroy, report by Pierre-Marie Pédrot)

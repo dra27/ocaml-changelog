@@ -1,0 +1,2 @@
+PR#6763: #show with -short-paths doesn't select shortest type paths
+(Jacques Garrigue, report by David Sheets)

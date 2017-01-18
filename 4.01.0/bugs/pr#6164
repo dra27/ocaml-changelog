@@ -1,0 +1,2 @@
+PR#6164: segmentation fault on Num.power_num of 0/1
+(Fabrice Le Fessant, report by Johannes Kanig)

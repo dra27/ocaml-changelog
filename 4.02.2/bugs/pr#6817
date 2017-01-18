@@ -1,0 +1,2 @@
+PR#6817: GADT exhaustiveness breakage with modules
+(Leo White, report by Pierre Chambart)

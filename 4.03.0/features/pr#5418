@@ -1,0 +1,2 @@
+PR#5418: (from comments) generate dependencies with $(CC) instead of gcc
+(Damien Doligez, report by Michael Grünewald)

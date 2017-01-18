@@ -1,0 +1,2 @@
+*New meaning for warning 7: it is now triggered when a method is overridden
+with the "method" keyword.  Use "method!" to avoid the warning.

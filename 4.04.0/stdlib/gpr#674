@@ -1,0 +1,4 @@
+GPR#674: support unknown Sys.os_type in Filename, defaulting to Unix
+(Filename would previously fail at initialization time for Sys.os_type values
+other than "Unix", "Win32" and "Cygwin"; mirage-os uses "xen")
+(Anil Madhavapeddy)

@@ -1,0 +1,2 @@
+PR#5734: improved Win32 implementation of Unix.gettimeofday
+(David Allsopp)

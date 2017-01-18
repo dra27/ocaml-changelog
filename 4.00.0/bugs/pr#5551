@@ -1,0 +1,1 @@
+PR#5551: repeated calls to find_in_path degrade performance

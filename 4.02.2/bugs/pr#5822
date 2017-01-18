@@ -1,0 +1,2 @@
+PR#5822: wrong value of Options.ext_dll on windows
+(Damien Doligez and Daniel Weil)

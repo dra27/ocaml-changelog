@@ -1,0 +1,4 @@
+Allow opening a first-class module or applying a generative functor
+in the body of a generative functor. Allow it also in the body of
+an applicative functor if no types are created
+(Jacques Garrigue, suggestion by Leo White)

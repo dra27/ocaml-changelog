@@ -1,0 +1,1 @@
+PR#5463: Bigarray.*.map_file fail if empty array is requested

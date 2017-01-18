@@ -1,0 +1,2 @@
+PR#6530: Add stack overflow handling for native code (OpenBSD i386 and amd64)
+(Cristopher Zimmermann)

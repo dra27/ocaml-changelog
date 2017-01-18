@@ -1,0 +1,4 @@
+PR#6943: native-code generator for POWER/PowerPC 64 bits, both in
+big-endian (ppc64) and little-endian (ppc64le) configuration.
+(Xavier Leroy, with inspiration from RedHat's unofficial ppc64 and ppc64le
+ ports)

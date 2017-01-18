@@ -1,0 +1,3 @@
+*The "DBM" library (interface with Unix DBM key-value stores) is no
+longer part of this distribution.  It now lives its own life at
+https://forge.ocamlcore.org/projects/camldbm/

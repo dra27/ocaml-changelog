@@ -1,0 +1,2 @@
+PR#5986: Protect against marshaling 64-bit integers in bytecode
+(Xavier Leroy, report by Alain Frisch)

@@ -1,0 +1,2 @@
+PR#6058: 'ocamlbuild -use-ocamlfind -tag thread -package threads t.cma' fails
+(Gabriel Scherer, report by Hezekiah M. Carty)

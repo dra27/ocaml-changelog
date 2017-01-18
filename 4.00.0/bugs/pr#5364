@@ -1,0 +1,1 @@
+PR#5364: wrong compilation of "((val m : SIG1) : SIG2)"

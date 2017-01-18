@@ -1,0 +1,3 @@
+GPR#703: Optimize some constant string operations when the "-safe-string"
+configure time option is enabled.
+(Pierre Chambart)

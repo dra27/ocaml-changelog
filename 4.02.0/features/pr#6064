@@ -1,0 +1,2 @@
+PR#6064: GADT representation for Bigarray.kind + CAML_BA_CHAR runtime kind
+(Jeremy Yallop, review by Gabriel Scherer)

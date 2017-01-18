@@ -1,0 +1,2 @@
+PR#7284: Bug in mcomp_fields leads to segfault
+(Jacques Garrigue, report by Leo White)

@@ -1,0 +1,1 @@
+PR#5306: comparing to Thread.self() raises exception at runtime

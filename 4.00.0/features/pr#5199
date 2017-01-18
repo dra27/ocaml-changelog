@@ -1,0 +1,2 @@
+PR#5199: tests are run only for bytecode if either native support is missing,
+or a non-empty value is set to "BYTECODE_ONLY" Makefile variable

@@ -1,0 +1,2 @@
+PR#6557: String.sub throws Invalid_argument("Bytes.sub")
+(Damien Doligez, report by Oliver Bandel)

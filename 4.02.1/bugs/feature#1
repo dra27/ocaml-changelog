@@ -1,0 +1,2 @@
+ocamlbuild: add an -ocamlmklib option to change the ocamlmklib command
+(Jérôme Vouillon)

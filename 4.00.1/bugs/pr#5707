@@ -1,0 +1,2 @@
+PR#5707: AMD64 code generator: do not use r10 and r11 for parameter passing,
+as these registers can be destroyed by the dynamic loader

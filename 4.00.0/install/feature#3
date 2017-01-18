@@ -1,0 +1,2 @@
+*toplevellib.cma is no longer installed because subsumed by
+ocamlcommon.cma ocamlbytecomp.cma ocamltoplevel.cma

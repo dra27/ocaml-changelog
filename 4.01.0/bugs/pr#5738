@@ -1,0 +1,2 @@
+PR#5738: first class module patterns not handled by ocamldep
+(Fabrice Le Fessant, Jacques Garrigue, reported by Hongbo Zhang)

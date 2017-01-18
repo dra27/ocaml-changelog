@@ -1,0 +1,2 @@
+GPR#142: add a CAMLdrop macro for undoing CAMLparam*/CAMLlocal*
+(Thomas Braibant and Damien Doligez)

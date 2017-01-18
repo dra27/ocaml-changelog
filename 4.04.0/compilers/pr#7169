@@ -1,0 +1,3 @@
+PR#7169, GPR#501: clarify the wording of Warning 8
+(Non-exhaustivity warning for pattern matching)
+(Florian Angeletti, review and report by Gabriel Scherer)

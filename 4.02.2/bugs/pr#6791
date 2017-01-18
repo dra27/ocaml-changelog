@@ -1,0 +1,2 @@
+PR#6791: "%s@[", "%s@{" regression in Scanf
+(Benoît Vaugon)

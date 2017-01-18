@@ -1,0 +1,3 @@
+PR#7265, GPR#769: Restore 4.02.3 behaviour of Unix.fstat, if the
+file descriptor doesn't wrap a regular file (win32unix only)
+(Andreas Hauptmann, review by David Allsopp)

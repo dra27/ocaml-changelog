@@ -1,0 +1,1 @@
+PR#5305: prevent ocamlbuild from complaining about links to _build/

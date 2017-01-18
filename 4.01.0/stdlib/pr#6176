@@ -1,0 +1,3 @@
+PR#6176: new Format.asprintf function with a %a formatter
+compatible with Format.fprintf (unlike Format.sprintf)
+(Pierre Weis)

@@ -1,0 +1,2 @@
+PR#4788: wrong error message when executable file is not found for backtrace
+(Damien Doligez, report by Claudio Sacerdoti Coen)

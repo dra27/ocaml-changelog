@@ -1,0 +1,9 @@
+compilers ocaml-changes-title=Compilers
+typing ocaml-changes-title=Type+system
+runtime ocaml-changes-title=Runtime+system
+stdlib ocaml-changes-title=Standard+library
+otherlibs ocaml-changes-title=Other+libraries
+tools ocaml-changes-title=Tools
+internals ocaml-changes-title=Internals
+bugs ocaml-changes-title=Bug+fixes
+features ocaml-changes-title=Feature+wishes

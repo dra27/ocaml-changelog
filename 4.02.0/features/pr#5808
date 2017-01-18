@@ -1,0 +1,2 @@
+PR#5808: allow simple patterns, not just identifiers, in "let p : t = ..."
+(Alain Frisch)

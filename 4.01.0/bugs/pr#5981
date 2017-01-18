@@ -1,0 +1,2 @@
+PR#5981: Incompatibility check assumes abstracted types are injective
+(Jacques Garrigue, report by Jeremy Yallop)

@@ -1,0 +1,2 @@
+PR#5824: Generate more efficient code for immediate right shifts.
+(Pierre Chambart, review by Xavier Leroy)

@@ -1,0 +1,3 @@
+PR#6630: Failure of tests/prim-bigstring/{big,}string.ml on big-endian
+architectures
+(Pierre Chambart, testing by Mark Shinwell)

@@ -1,0 +1,2 @@
+*Arg: options with empty doc strings are no longer included in the usage string
+(PR#5437)

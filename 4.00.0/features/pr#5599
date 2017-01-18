@@ -1,0 +1,1 @@
+PR#5599: Add warn() tag in ocamlbuild to control -w compiler switch

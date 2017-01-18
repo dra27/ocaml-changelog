@@ -1,0 +1,3 @@
+GPR#388: OCAML_FLEXLINK environment variable allows overriding flexlink
+command
+(David Allsopp)

@@ -1,0 +1,3 @@
+*PR#6524, GPR#79: Filename: Optional ?perms argument to open_temp_file
+May break partial applications of the function (fix by passing ?perms:None)
+(Daniel Bünzli, review by Jacques-Pascal Deplaix)

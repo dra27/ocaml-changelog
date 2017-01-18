@@ -1,0 +1,2 @@
+PR#6024: Format syntax for printing @ is incompatible with 3.12.1
+(Damien Doligez, report by Boris Yakobowski)

@@ -1,0 +1,2 @@
+PR#6930: Aliased result type of GADT constructor results in assertion failure
+(Jacques Garrigue)

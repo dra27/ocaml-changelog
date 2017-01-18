@@ -1,0 +1,2 @@
+PR#6641: add -g, -ocamlcflags, -ocamloptflags options to ocamlmklib
+(whitequark)

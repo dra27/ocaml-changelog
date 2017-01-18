@@ -1,0 +1,2 @@
+PR#6501: harden the native-code generator against certain uses of "%identity"
+(Xavier Leroy, report by Antoine Miné)

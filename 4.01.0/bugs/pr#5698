@@ -1,0 +1,2 @@
+PR#5698: remove harcoded limit of 200000 labels in emitaux.ml
+(Fabrice Le Fessant, report by Marcin Sawicki)

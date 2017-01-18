@@ -1,0 +1,2 @@
+PR#6843: record weak dependencies even when the .cmi is missing
+(Leo White, Gabriel Scherer)

@@ -1,0 +1,2 @@
+PR#5920, PR#5957: linking failure for big bytecodes on 32bit architectures
+(Benoît Vaugon and Chet Murthy, report by Jun Furuse and Sebastien Mondet)

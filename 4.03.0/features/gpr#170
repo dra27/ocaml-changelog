@@ -1,0 +1,7 @@
+*GPR#170: Parse arbitrary precision integers.
+Accept a single [A-Za-z] as modifier for integers (generalizing 'l','L','n')
+and floats.
+May cause breakage (ie. ppx preprocessor) because of changes in the parsetree.
+This changes PR#6816 a little bit by reading the literal [123a] as a single
+token that can later be rewritten by a ppx preprocessor.
+(Hugo Heuzard)

@@ -1,0 +1,3 @@
+PR#6523: failure upon character bigarray access, and unnecessary change
+in comparison ordering
+(Jeremy Yallop, Mark Shinwell)

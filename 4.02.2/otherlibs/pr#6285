@@ -1,0 +1,2 @@
+PR#6285: Add support for nanosecond precision in Unix.stat()
+(Jérémie Dimino, report by user 'gfxmonk')

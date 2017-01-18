@@ -1,0 +1,2 @@
+PR#6187: ocamlbuild: warn when using -plugin-tag(s) without myocamlbuild.ml
+(Jacques-Pascal Deplaix)

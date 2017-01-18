@@ -1,0 +1,2 @@
+PR#6727: Printf.sprintf "%F" misbehavior
+(Benoît Vaugon, report by Vassili Karpov)

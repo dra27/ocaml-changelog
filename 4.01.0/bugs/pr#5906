@@ -1,0 +1,2 @@
+PR#5906: GADT exhaustiveness check is still broken
+(Jacques Garrigue, report by Sébastien Briais)

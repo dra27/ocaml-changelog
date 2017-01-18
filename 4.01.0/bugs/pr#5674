@@ -1,0 +1,2 @@
+PR#5674: Methods call are 2 times slower with 4.00 than with 3.12
+(Jacques Garrigue, Gabriel Scherer, report by Jean-Louis Giavitto)

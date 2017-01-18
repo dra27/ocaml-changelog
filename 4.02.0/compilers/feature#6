@@ -1,0 +1,4 @@
+*"-o" now sets module name to the output file name up to the first "."
+(it also applies when "-o" is not given, i.e. the module name is then
+the input file name up to the first ".")
+(Leo White, Mark Shinwell and Nick Chapman)

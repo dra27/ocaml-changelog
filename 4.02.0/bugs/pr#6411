@@ -1,0 +1,2 @@
+PR#6411: missing libgcc_s_sjlj-1.dll in mingw (add -static-libgcc)
+(Jun Furuse and Alain Frisch, Jonathan Protzenko and Adrien Nader)

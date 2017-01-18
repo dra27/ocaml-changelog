@@ -1,0 +1,2 @@
+PR#5708: catch Failure"int_of_string" in ocamldebug
+(Fabrice Le Fessant, report by user 'schommer')

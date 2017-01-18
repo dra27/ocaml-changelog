@@ -1,0 +1,2 @@
+PR#6977: String literals in comments interpret escape sequences
+(Damien Doligez, report by Daniel Bünzli and David Sheets)

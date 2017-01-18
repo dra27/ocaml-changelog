@@ -1,0 +1,3 @@
+GPR#779: Building native runtime on Windows could fail when bootstrapping
+FlexDLL if there was also a system-installed flexlink
+(David Allsopp, report by Michael Soegtrop)

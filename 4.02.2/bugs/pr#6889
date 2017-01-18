@@ -1,0 +1,2 @@
+PR#6889: ast_mapper fails to rewrite class attributes
+(Sébastien Briais)

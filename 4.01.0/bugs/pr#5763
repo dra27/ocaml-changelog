@@ -1,0 +1,2 @@
+PR#5763: ocamlbuild does not give correct flags when running menhir
+(Gabriel Scherer, reported by Philippe Veber)

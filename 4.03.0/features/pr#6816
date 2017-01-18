@@ -1,0 +1,4 @@
+*PR#6816: reject integer and float literals directly followed by an identifier.
+This was prevously read as two separate tokens.
+[let abc = 1 in (+) 123abc] was accepted and is now rejected.
+(Hugo Heuzard)

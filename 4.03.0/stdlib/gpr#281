@@ -1,0 +1,5 @@
+GPR#281: Switch the following externals to [@@unboxed]:
+* Sys.time (and [@@noalloc])
+* Pervasives.ldexp (and [@@noalloc])
+* Pervasives.compare for float, nativeint, int32, int64.
+(François Bobot)

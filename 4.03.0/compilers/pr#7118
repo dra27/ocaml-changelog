@@ -1,0 +1,3 @@
+PR#7118, PR#7120, GPR#408, GPR#476: Bug fixed in stack unwinding
+metadata generation. Was a cause of crashes in GUI programs on OS X.
+(Bart Jacobs, review by Mark Shinwell)

@@ -1,0 +1,2 @@
+PR#6857: __MODULE__ doesn't give the current module with -o
+(Jacques Garrigue, report by Valentin Gatien-Baron)

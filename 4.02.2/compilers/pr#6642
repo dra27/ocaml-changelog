@@ -1,0 +1,2 @@
+PR#6642: replace $CAMLORIGIN in -ccopt with the path to cma or cmxa
+(whitequark, Gabriel Scherer, review by Damien Doligez)

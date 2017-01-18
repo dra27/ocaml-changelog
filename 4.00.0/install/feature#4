@@ -1,0 +1,3 @@
+Added a configuration option (-with-debug-runtime) to compile and install
+a debug version of the runtime system, and a compiler option
+(-runtime-variant) to select the debug runtime.

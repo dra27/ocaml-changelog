@@ -1,0 +1,2 @@
+GPR#283: Fix memory leaks in intern.c when OOM is raised
+(Marc Lasson, review by Alain Frisch)

@@ -1,0 +1,2 @@
+Array: faster implementations of "blit", "copy", "sub", "append" and "concat"
+(PR#2395, PR#2787, PR#4591)

@@ -1,0 +1,2 @@
+PR#5988: missing from the documentation: -impl is a valid flag for ocamlopt
+(Damien Doligez, report by Vincent Bernardoff)

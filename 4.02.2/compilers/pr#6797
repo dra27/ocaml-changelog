@@ -1,0 +1,3 @@
+PR#6797: new option -output-complete-obj
+to output an object file with included runtime and autolink libraries
+(whitequark)

@@ -1,0 +1,1 @@
+PR#5120: fix the output function of Camlp4.Debug.formatter

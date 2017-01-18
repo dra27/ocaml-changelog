@@ -1,0 +1,6 @@
+PR#6694, PR#6695, GPR#124: deprecate functions using ISO-8859-1 character set
+in Char, Bytes, String and provide alternatives *_acii using US-ASCII.
+Affected functions:
+  {Char,String,Bytes}.{uppercase,lowercase},
+  {String,Bytes}.{capitalize,uncaptialize}
+(whitequark, review by Damien Doligez)

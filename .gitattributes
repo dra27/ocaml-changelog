@@ -14,3 +14,18 @@
 
 # Default behaviour, for if core.autocrlf isn't set
 * text=auto
+
+# This line should be identical in .gitattributes in the main repo.
+# If the order of sections is to be changed, the handling of
+# ocaml-changes-sequence will need to be updated (:= don't)
+* ocaml-changes-sequence=:language:compilers:codegen:typing:runtime:stdlib:otherlibs:pruning:debugging:tools:manual:build:install:internals:bugs:features
+
+4.00.0 ocaml-changes-title=OCaml+4.00.0+(26+Jul+2012)
+4.00.1 ocaml-changes-title=OCaml+4.00.1+(5+Oct+2012)
+4.01.0 ocaml-changes-title=OCaml+4.01.0+(12+Sep+2013)
+4.02.0 ocaml-changes-title=OCaml+4.02.0+(29+Aug+2014)
+4.02.1 ocaml-changes-title=OCaml+4.02.1+(14+Oct+2014)
+4.02.2 ocaml-changes-title=OCaml+4.02.2+(17+Jun+2015)
+4.02.3 ocaml-changes-title=OCaml+4.02.3+(27+Jul+2015)
+4.03.0 ocaml-changes-title=OCaml+4.03.0+(25+Apr+2016)
+4.04.0 ocaml-changes-title=OCaml+4.04.0+(4+Nov+2016)

@@ -1,0 +1,5 @@
+*GPR#591: Improve support for OCAMLPARAM: (i) do not use objects
+files with -a, -pack, -shared; (ii) use "before" objects in the toplevel
+(but not "after" objects); (iii) use -I dirs in the toplevel,
+(iv) fix bug where -I dirs were ignored when using threads
+(Marc Lasson, review by Damien Doligez and Alain Frisch)

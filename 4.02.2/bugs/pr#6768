@@ -1,0 +1,2 @@
+PR#6768: Typechecker overflow the stack on cyclic type
+(Jacques Garrigue, report by user 'darktenaibre')

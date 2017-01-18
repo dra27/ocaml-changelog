@@ -1,0 +1,1 @@
+PR#5461: bytecode: emit warning when linking two modules with the same name

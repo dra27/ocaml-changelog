@@ -1,0 +1,2 @@
+PR#6446: improve "unused declaration" warnings wrt. name shadowing
+(Alain Frisch)

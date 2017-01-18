@@ -1,0 +1,2 @@
+PR#6554: fix race condition when retrieving backtraces
+(Jérémie Dimino, Mark Shinwell)

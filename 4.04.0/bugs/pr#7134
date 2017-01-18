@@ -1,0 +1,2 @@
+PR#7134: compiler forcing aliases it shouldn't while reporting type errors
+(Jacques Garrigue, report and suggestion by sliquister)

@@ -1,0 +1,5 @@
+An ISO C99-compliant C compiler and standard library is now assumed.
+(Plus special exceptions for MSVC.)  In particular, emulation code for
+64-bit integer arithmetic was removed, the C compiler must support a
+64-bit integer type.
+(Xavier Leroy)

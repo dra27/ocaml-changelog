@@ -1,0 +1,2 @@
+PR#6888: The list command of ocamldebug uses the wrong file
+(Damien Doligez, report by Pierre-Marie Pédrot)

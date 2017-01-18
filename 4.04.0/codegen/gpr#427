@@ -1,0 +1,3 @@
+GPR#427: Obj.is_block is now an inlined OCaml function instead of a
+C external.  This should be faster.
+(Demi Obenour)

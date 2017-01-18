@@ -1,0 +1,1 @@
+PR#5393: fails to build from source on GNU/kFreeBSD because of -R link option

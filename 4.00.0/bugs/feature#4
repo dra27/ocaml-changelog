@@ -1,0 +1,1 @@
+crash when using OCAMLRUNPARAM=a=X with invalid X (reported in private)

@@ -1,0 +1,2 @@
+PR#5877: multiple "open" can become expensive in memory
+(Fabrice Le Fessant and Alain Frisch)

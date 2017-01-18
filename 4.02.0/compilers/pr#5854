@@ -1,0 +1,3 @@
+PR#5854: issue warning 3 when referring to a value marked with
+the [@@ocaml.deprecated] attribute
+(Alain Frisch, suggestion by Pierre-Marie Pédrot)

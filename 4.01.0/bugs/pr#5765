@@ -1,0 +1,2 @@
+PR#5765: ocamllex doesn't preserve line directives
+(Damien Doligez, reported by Martin Jambon)

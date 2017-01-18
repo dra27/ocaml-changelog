@@ -1,0 +1,2 @@
+PR#7297: -strict-sequence turns off Warning 21
+(Jacques Garrigue, report by Valentin Gatien-Baron)

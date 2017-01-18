@@ -1,0 +1,2 @@
+PR#4887: input_char after close_in crashes ocaml (msvc runtime)
+(Alain Frisch and Christoph Bauer, report by ygrek)

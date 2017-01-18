@@ -1,0 +1,4 @@
+*Protect Unix.sleep against interruptions by handled signals.
+Before, a handled signal could cause Unix.sleep to return early.
+Now, the sleep is restarted until the given time is elapsed.
+(Xavier Leroy)

@@ -1,0 +1,2 @@
+PR#7119: the toplevel does not respect [@@@warning]
+(Alain Frisch, report by Gabriel Radanne)

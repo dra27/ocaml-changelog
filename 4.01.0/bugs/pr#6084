@@ -1,0 +1,3 @@
+PR#6084: Define caml_modify and caml_initialize as weak symbols to help
+with Netmulticore
+(Xavier Leroy, Gerd Stolpmann)

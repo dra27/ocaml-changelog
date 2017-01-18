@@ -1,0 +1,2 @@
+PR#7168: Exceeding stack limit in bytecode can lead to a crash.
+(Jacques-Henri Jourdan)

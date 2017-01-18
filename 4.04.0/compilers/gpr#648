@@ -1,0 +1,3 @@
+GPR#648: New -plugin option for ocamlc and ocamlopt, to dynamically extend
+the compilers at runtime.
+(Fabrice Le Fessant)

@@ -1,0 +1,3 @@
+PR#4834, GPR#592: Add a Biggarray.Genarray.change_layout function
+to switch bigarrays between C and fortran layouts.
+(Guillaume Hennequin, review by Florian Angeletti)

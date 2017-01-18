@@ -1,0 +1,2 @@
+PR#5892: GADT exhaustiveness check is broken
+(Jacques Garrigue and Leo White)

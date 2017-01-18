@@ -1,0 +1,2 @@
+GPR#228: fix a dangling internal pointer in (bytecode )debug_info
+(Gabriel Scherer and Mark Shinwell and Xavier Leroy)

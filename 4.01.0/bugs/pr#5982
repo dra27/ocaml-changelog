@@ -1,0 +1,2 @@
+PR#5982: caml_leave_blocking section and errno corruption
+(Jérémie Dimino)

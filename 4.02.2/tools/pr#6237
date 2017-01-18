@@ -1,0 +1,2 @@
+PR#6237: explicit "infer" tag to control or disable menhir --infer
+(Hugo Heuzard)

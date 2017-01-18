@@ -1,0 +1,5 @@
+More aggressive constant propagation, including float and
+int32/int64/nativeint arithmetic.  Constant propagation for floats
+can be turned off with option -no-float-const-prop, for codes that
+change FP rounding modes at run-time.
+(Xavier Leroy)

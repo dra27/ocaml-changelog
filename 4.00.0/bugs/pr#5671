@@ -1,0 +1,1 @@
+PR#5671: initialization of compare_ext field in caml_final_custom_operations()

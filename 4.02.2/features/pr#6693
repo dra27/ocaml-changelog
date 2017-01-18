@@ -1,0 +1,2 @@
+PR#6693: also build libasmrun_shared.so and lib{asm,caml}run_pic.a
+(whitequark, review by Mark Shinwell)

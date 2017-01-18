@@ -1,0 +1,3 @@
+GPR#173: [@inline] and [@inlined] attributes (for function declarations
+and call sites respectively) to control inlining
+(Pierre Chambart, Mark Shinwell)

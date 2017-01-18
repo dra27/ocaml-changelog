@@ -1,0 +1,3 @@
+New back-end optimization pass: dead code elimination.
+(Removes arithmetic and load instructions whose results are unused.)
+(Xavier Leroy)

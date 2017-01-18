@@ -1,0 +1,2 @@
+PR#5735: %apply and %revapply not first class citizens
+(Fabrice Le Fessant, reported by Jun Furuse)

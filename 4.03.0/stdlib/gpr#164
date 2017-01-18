@@ -1,0 +1,3 @@
+GPR#164: more efficient (branchless) implementation of Pervasives.compare
+specialized at type 'float'.
+(Vladimir Brankov)

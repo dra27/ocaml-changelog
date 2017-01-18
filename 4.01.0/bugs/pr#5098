@@ -1,0 +1,2 @@
+PR#5098: creating module values may lead to memory leaks
+(Alain Frisch, report by Milan Stanojević)

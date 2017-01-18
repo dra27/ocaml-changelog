@@ -1,0 +1,2 @@
+PR#5650: Camlp4FoldGenerator doesn't handle well "abstract" types
+(Hongbo Zhang)

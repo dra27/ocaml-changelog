@@ -1,0 +1,3 @@
+PR#6289: Unix.utimes uses the current time only if both arguments
+are exactly 0.0.  Also, use sub-second resolution if available.
+(Xavier Leroy, report by Christophe Troestler)

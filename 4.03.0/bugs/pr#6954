@@ -1,0 +1,2 @@
+PR#6954: Infinite loop in type checker with module aliases
+(Jacques Garrigue, report by Mark Mottl)

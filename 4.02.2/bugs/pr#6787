@@ -1,0 +1,3 @@
+PR#6787: Soundness bug with polymorphic variants
+(Jacques Garrigue, with help from Leo White and Grégoire Henry,
+ report by Michael O'Connor)

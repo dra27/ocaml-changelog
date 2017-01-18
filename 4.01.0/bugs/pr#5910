@@ -1,0 +1,2 @@
+PR#5910: Fix code generation bug for "mod 1" on ARM.
+(Benedikt Meurer, report by user 'jteg68')

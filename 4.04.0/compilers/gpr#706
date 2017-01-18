@@ -1,0 +1,4 @@
+GPR#706: Add a settable Env.Persistent_signature.load function so
+that cmi files can be loaded from other sources. This can be used to
+create self-contained toplevels.
+(Jérémie Dimino)

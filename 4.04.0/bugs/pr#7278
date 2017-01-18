@@ -1,0 +1,2 @@
+*PR#7278: Prevent private inline records from being mutated
+(Alain Frisch, report by Pierre Chambart)

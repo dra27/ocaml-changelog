@@ -1,0 +1,2 @@
+PR#6944: let module X = Path in … is not typed as a module alias
+(Jacques Garrigue, report by Frédéric Bour)

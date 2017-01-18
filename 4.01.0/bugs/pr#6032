@@ -1,0 +1,2 @@
+PR#6032: better Random.self_init under Windows
+(Alain Frisch, Xavier Leroy)

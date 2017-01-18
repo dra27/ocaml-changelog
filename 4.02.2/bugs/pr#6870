@@ -1,0 +1,2 @@
+PR#6870: Unsoundness when -rectypes fails to detect non-contractive type
+(Jacques Garrigue, report by Stephen Dolan)

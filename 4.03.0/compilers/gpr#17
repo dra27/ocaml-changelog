@@ -1,0 +1,2 @@
+GPR#17: some cmm optimizations of integer operations with constants
+(Stephen Dolan, review by Pierre Chambart)

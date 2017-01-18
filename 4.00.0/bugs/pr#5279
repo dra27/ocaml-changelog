@@ -1,0 +1,1 @@
+*PR#5279: executable name is not initialized properly in caml_startup_code

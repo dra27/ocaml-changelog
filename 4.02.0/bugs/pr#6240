@@ -1,0 +1,2 @@
+PR#6240: Fail to expand module type abbreviation during substyping
+(Jacques Garrigue, report by Leo White)

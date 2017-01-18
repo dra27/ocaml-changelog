@@ -1,0 +1,2 @@
+PR#6123: Assert failure when self escapes its class
+(Jacques Garrigue, report by whitequark)

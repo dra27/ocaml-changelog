@@ -1,0 +1,1 @@
+PR#5511: in Bigarray.reshape, unwarranted limitation on new array dimensions.

@@ -1,0 +1,2 @@
+PR#7031: new warning 57, ambiguous guarded or-patterns
+(Luc Maranget, Gabriel Scherer, report by Martin Clochard and Claude Marché)

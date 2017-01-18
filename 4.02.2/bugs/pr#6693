@@ -1,0 +1,2 @@
+PR#6693: (part two) Incorrect relocation types in x86-64 runtime system
+(whitequark, review by Jacques-Henri Jourdan, Xavier Leroy and Mark Shinwell)

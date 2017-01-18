@@ -1,0 +1,2 @@
+PR#6505: Missed Type-error leads to a segfault upon record access
+(Jacques Garrigue, Jeremy Yallop, report by Christoph Höger)

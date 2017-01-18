@@ -1,0 +1,3 @@
+ocamlopt now uses clang as assembler on OS X if available, which enables
+CFI support for OS X.
+(Benedikt Meurer)

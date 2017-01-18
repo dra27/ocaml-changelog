@@ -1,0 +1,3 @@
+PR#7067: fix performance regression (wrt. 4.01) in the native compiler
+for long nested structures
+(Alain Frisch, report by Daniel Bünzli, review by Jacques Garrigue)

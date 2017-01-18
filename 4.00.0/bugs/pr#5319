@@ -1,0 +1,1 @@
+PR#5319: %r11 clobbered by Lswitch in Windows AMD64 native-code compilation

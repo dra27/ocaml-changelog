@@ -1,0 +1,2 @@
+GPR#147: [type 'a result = Ok of 'a | Error of 'b] in Pervasives
+(Yaron Minsky)

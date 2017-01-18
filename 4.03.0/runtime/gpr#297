@@ -1,0 +1,3 @@
+*GPR#297: Several changes to improve the worst-case GC pause time.
+Changes Gc.control and Gc.major_slice and adds functions to the Gc module.
+(Damien Doligez, with help from Francois Bobot, Thomas Braibant, Leo White)

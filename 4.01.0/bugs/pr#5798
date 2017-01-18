@@ -1,0 +1,2 @@
+PR#5798: add ARM VFPv2 support for Raspbian (ocamlopt)
+(Jeffrey Scofield and Anil Madhavapeddy, patch review by Benedikt Meurer)

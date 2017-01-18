@@ -1,0 +1,1 @@
+configure: add -no-camlp4 option

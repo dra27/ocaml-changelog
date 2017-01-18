@@ -1,0 +1,5 @@
+Added a new -short-paths option, which attempts to use the shortest
+representation for type constructors inside types, taking open modules
+into account. This can make types much more readable if your code
+uses lots of functors.
+(Jacques Garrigue)

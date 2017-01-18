@@ -1,0 +1,2 @@
+PR#6886: -no-alias-deps allows to build self-referential compilation units
+(Jacques Garrigue, report by Valentin Gatien-Baron)

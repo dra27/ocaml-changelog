@@ -1,0 +1,2 @@
+PR#6439: Don't use the deprecated [getpagesize] function
+(John Whitington, Mark Shinwell)

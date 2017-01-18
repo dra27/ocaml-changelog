@@ -1,0 +1,2 @@
+PR#6924: tiny optim to avoid some spilling of floats in x87
+(Alain Frisch)

@@ -1,0 +1,3 @@
+Fixed bug in native code version of [caml_raise_with_string] that could
+potentially lead to heap corruption.
+(Mark Shinwell)

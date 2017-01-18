@@ -1,0 +1,3 @@
+PR#6690: Uncaught exception (Not_found) with (wrong) wildcard or unification
+type variable in place of a local abstract type
+(Jacques Garrigue, report by Mikhail Mandrykin)

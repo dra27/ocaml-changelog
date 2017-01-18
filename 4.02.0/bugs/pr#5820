@@ -1,0 +1,2 @@
+PR#5820: Fix camlp4 lexer roll back problem
+(Hongbo Zhang)

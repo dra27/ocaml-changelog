@@ -1,0 +1,2 @@
+PR#6938: fix regression on "%047.27{l,L,n}{d,i,x,X,o,u}"
+(Benoît Vaugon, report by Arduino Cascella)

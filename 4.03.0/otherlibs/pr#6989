@@ -1,0 +1,4 @@
+PR#6989: in Str library, make sure that all \(...\) groups are binding
+and can be consulted with Str.matched_group.  There used to be
+a limitation to 32 binding groups.
+(Xavier Leroy)

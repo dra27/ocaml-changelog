@@ -1,0 +1,2 @@
+PR#7037: more reproducible builds, don't put temp file names into objects
+(Xavier Leroy)

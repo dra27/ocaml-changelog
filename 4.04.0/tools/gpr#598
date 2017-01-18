@@ -1,0 +1,3 @@
+GPR#598: Add a --strict option to ocamlyacc treat conflicts as errors
+(this option is now used for the compiler's parser)
+(Jeremy Yallop)

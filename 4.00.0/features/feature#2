@@ -1,0 +1,2 @@
+ocamldebug: new 'environment' directive to set environment variables
+for debuggee

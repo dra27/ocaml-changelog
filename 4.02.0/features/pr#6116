@@ -1,0 +1,2 @@
+PR#6116: more efficient implementation of Digest.to_hex
+(ygrek)

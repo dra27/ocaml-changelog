@@ -1,0 +1,2 @@
+PR#6824: fix buffer sharing on partial application of Format.asprintf
+(Gabriel Scherer, report by Alain Frisch)

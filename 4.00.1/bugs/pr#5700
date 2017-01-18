@@ -1,0 +1,1 @@
+PR#5700: crash with native-code stack backtraces under MacOS 10.8 x86-64

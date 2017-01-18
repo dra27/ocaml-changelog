@@ -1,0 +1,2 @@
+PR#5933: Linking is slow when there are functions with large arities
+(Valentin Gatien-Baron, review by Gabriel Scherer)

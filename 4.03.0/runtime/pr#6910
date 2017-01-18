@@ -1,0 +1,3 @@
+PR#6910, GPR#224: marshaling (output_value, input_value, et al)
+now support marshaled data bigger than 4 Gb.
+(Xavier Leroy)

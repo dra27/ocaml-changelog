@@ -1,0 +1,3 @@
+It is now possible to omit type annotations when packing and unpacking
+first-class modules. The type-checker attempts to infer it from the context.
+Using the -principal option guarantees forward compatibility.

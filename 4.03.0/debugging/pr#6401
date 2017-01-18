@@ -1,0 +1,3 @@
+PR#6401: use proper error reporting for toplevel environment initialization:
+no more Env.Error(_) at start time
+(Gabriel Scherer, Alain Frisch)

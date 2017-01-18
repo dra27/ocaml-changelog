@@ -1,0 +1,3 @@
+PR#6733: add .byte.so and .native.so targets to pass
+-output-obj -cclib -shared.
+(whitequark)

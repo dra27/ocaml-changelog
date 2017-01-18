@@ -1,0 +1,3 @@
+PR#7097: fix strange syntax error message around illegal packaged module
+signature constraints
+(Alain Frisch, report by Jun Furuse)

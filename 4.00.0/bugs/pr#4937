@@ -1,0 +1,2 @@
+PR#4937: camlp4 incorrectly handles optional arguments if 'option' is
+redefined

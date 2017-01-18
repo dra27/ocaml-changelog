@@ -1,0 +1,2 @@
+PR#4502: ocamlbuild now reliably excludes the build-dir from hygiene check
+(Gabriel Scherer, report by Romain Bardou)

@@ -1,0 +1,2 @@
+PR#6680: Missing parentheses in warning about polymorphic variant value
+(Jacques Garrigue and Gabriel Scherer, report by Philippe Veber)

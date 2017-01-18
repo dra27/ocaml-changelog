@@ -1,0 +1,2 @@
+PR#6171: Confusing error message when a type escapes its scope.
+(Jacques Garrigue and Leo White, report by John Whitington)

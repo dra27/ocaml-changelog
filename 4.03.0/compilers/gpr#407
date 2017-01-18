@@ -1,0 +1,3 @@
+GPR#407: don't display the name of compiled .c files when calling the
+Microsoft C Compiler (same as the assembler).
+(David Allsopp)

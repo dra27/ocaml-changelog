@@ -1,0 +1,2 @@
+PR#6650: Cty_constr not handled correctly by Subst
+(Jacques Garrigue, report by Leo White)

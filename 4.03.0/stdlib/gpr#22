@@ -1,0 +1,4 @@
+GPR#22: Add the Ephemeron module that implements ephemerons and weak
+hash table
+(François Bobot, review by Damien Doligez, Daniel Bünzli,
+ Alain Frisch, Pierre Chambart)

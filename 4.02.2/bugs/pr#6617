@@ -1,0 +1,2 @@
+PR#6617: allow android build with pthreads support (since SDK r10c)
+(whitequark)

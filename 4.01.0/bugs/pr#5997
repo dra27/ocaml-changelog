@@ -1,0 +1,2 @@
+PR#5997: Non-compatibility assumed for concrete types with same constructor
+(Jacques Garrigue, report by Gabriel Scherer)

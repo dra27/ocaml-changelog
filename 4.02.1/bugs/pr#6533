@@ -1,0 +1,2 @@
+PR#6533: broken semantics of %(%) when substituted by a box
+(Benoît Vaugon, report by Boris Yakobowski)

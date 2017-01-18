@@ -1,0 +1,3 @@
+GPR#600: (similar to GPR#555) ensure that register typing constraints are
+respected at N-way join points in the control flow graph
+(Mark Shinwell)

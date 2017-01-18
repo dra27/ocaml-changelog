@@ -1,0 +1,2 @@
+PR#5628: add #remove_directory and Topdirs.remove_directory to remove
+a directory from the load path

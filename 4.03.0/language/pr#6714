@@ -1,0 +1,3 @@
+PR#6714: allow [@@ocaml.warning] on most structure and signature items:
+values, modules, module types
+(whitequark)

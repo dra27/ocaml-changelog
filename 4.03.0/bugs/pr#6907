@@ -1,0 +1,2 @@
+PR#6907: Stack overflow printing error in class declaration
+(Jacques Garrigue, report by Ivan Gotovchits)

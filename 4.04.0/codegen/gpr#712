@@ -1,0 +1,3 @@
+GPR#712: Small improvements to type-based optimizations for array
+and lazy
+(Alain Frisch, review by Pierre Chambart)

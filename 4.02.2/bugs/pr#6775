@@ -1,0 +1,2 @@
+PR#6775: Digest.file leaks file descriptor on error
+(Valentin Gatien-Baron)

@@ -1,0 +1,1 @@
+PR#5604: fix permissions of files created by ocamlbuild itself

@@ -1,0 +1,2 @@
+PR#5965: disallow auto-reference to a recursive module in its definition
+(Alain Frisch, report by Arthur Windler via Gabriel Scherer)

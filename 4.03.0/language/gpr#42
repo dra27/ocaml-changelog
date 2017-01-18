@@ -1,0 +1,2 @@
+GPR#42: short functor type syntax: "S -> T" for "functor (_ : S) -> T"
+(Leo White)

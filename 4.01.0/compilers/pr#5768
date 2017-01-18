@@ -1,0 +1,3 @@
+PR#5768: On "unbound identifier" errors, use spell-checking to suggest names
+present in the environment
+(Gabriel Scherer)

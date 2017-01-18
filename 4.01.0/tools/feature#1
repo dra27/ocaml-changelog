@@ -1,0 +1,2 @@
+OCamlbuild now features a bin_annot tag to generate .cmt files.
+(Jonathan Protzenko)

@@ -1,0 +1,2 @@
+PR#7226, GPR#212, GPR#542: emit column position in gas assembly `.loc`
+(Frédéric Bour, Anton Bachin)

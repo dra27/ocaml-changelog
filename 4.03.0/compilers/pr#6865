@@ -1,0 +1,2 @@
+*PR#6865: remove special case for parsing "let _ = expr" in structures
+(Jérémie Dimino, Alain Frisch)

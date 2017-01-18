@@ -1,0 +1,2 @@
+PR#6717: Pprintast does not print let-pattern attributes
+(Gabriel Scherer, report by whitequark)

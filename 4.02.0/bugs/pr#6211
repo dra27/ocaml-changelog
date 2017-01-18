@@ -1,0 +1,3 @@
+PR#6211: in toplevel interactive use, bad interaction between uncaught
+exceptions and multiple bindings of the form "let x = a let y = b;;".
+(Xavier Leroy)

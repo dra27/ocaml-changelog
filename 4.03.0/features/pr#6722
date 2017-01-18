@@ -1,0 +1,3 @@
+PR#6722: compatibility with x32 architecture (x86-64 in ILP32 mode).
+ocamlopt is not supported, but bytecode compiles cleanly.
+(Adam Borowski and Xavier Leroy)

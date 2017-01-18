@@ -1,0 +1,2 @@
+PR#5197, GPR#63: Arg: allow flags such as --flag=arg as well as --flag arg
+(Richard Jones)

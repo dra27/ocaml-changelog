@@ -1,0 +1,2 @@
+PR#6262: equality of first-class modules take module aliases into account
+(Alain Frisch and Leo White)
